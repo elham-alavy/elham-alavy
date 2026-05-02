@@ -6,7 +6,7 @@
 
 *"Using data to inspire healthier communities and a better environment"*
 
-[![Portfolio](https://img.shields.io/badge/🌍_HERE_YOU_CAN_SEE_ME-elham--alavy.github.io/portfolio-00ff88?style=for-the-badge&labelColor=0a0a0a)](https://elham-alavy.github.io/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-00ff88?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0a0a0a)](https://elham-alavy.github.io/portfolio)
 
 </div>
 
@@ -53,8 +53,10 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elhamhasanialavy@arizona.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elhamhasanialavy)
+[![Email](https://img.shields.io/badge/Email-elhamhasanialavy%40arizona.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elhamhasanialavy@arizona.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-elhamhasanialavy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elhamhasanialavy)
+[![Portfolio](https://img.shields.io/badge/Portfolio-elham--alavy.github.io-00ff88?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0a0a0a)](https://elham-alavy.github.io/portfolio)
+
 ![Profile views](https://komarev.com/ghpvc/?username=elham-alavy&color=00ff88&style=flat-square&label=PROFILE+VIEWS)
 
 😄 Pronouns: She/her
