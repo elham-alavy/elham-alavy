@@ -10,7 +10,14 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="200"/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-00ff88?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0a0a0a)](https://elham-alavy.github.io/portfolio)
+---
+
+### 🌐 Find me here
+
+| 🎓 Academic Portfolio | 🐰 Daily Life & Learning |
+|:---:|:---:|
+| [![Portfolio](https://img.shields.io/badge/🔬_ACADEMIC_PORTFOLIO-Visit_My_Research_Website-00ff88?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0a0a0a)](https://elham-alavy.github.io/portfolio) | [![TIL](https://img.shields.io/badge/🐰_TODAY_I_LEARNED-Daily_Life_with_🐰_&_🐻-ff88cc?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0a0a0a)](https://elham-alavy.github.io/TodayILearned/) |
+| Research · Data Engineering · Projects | Books · Music · Life · Notes · Joe Dassin 🎵 |
 
 </div>
 
@@ -74,6 +81,7 @@
 [![Email](https://img.shields.io/badge/Email-elhamhasanialavy%40arizona.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elhamhasanialavy@arizona.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-elhamhasanialavy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elhamhasanialavy)
 [![Portfolio](https://img.shields.io/badge/Portfolio-elham--alavy.github.io-00ff88?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0a0a0a)](https://elham-alavy.github.io/portfolio)
+[![TIL](https://img.shields.io/badge/🐰_TIL-TodayILearned-ff88cc?style=for-the-badge&labelColor=0a0a0a)](https://elham-alavy.github.io/TodayILearned/)
 
 ![Profile views](https://komarev.com/ghpvc/?username=elham-alavy&color=00ff88&style=flat-square&label=PROFILE+VIEWS)
 
