@@ -8,7 +8,7 @@
 
 *"Using data to inspire healthier communities and a better environment"*
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500"/>
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="200"/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-00ff88?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0a0a0a)](https://elham-alavy.github.io/portfolio)
 
