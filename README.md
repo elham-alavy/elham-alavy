@@ -12,7 +12,7 @@
 
 ### 🌐 Find me here
 
-| 🎓 Academic Portfolio | 🐰 Today I Learned | 📖 My Journal |
+| <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"><br>🎓 Academic Portfolio | <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="30"><br>🐰 Today I Learned | <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="30"><br>📖 My Journal |
 |:---:|:---:|:---:|
 | [![Portfolio](https://img.shields.io/badge/🔬_ACADEMIC_PORTFOLIO-Visit_My_Research_Website-00ff88?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0a0a0a)](https://elham-alavy.github.io/portfolio) | [![TIL](https://img.shields.io/badge/🐰_TODAY_I_LEARNED-Daily_Life_with_🐰_&_🐻-ff88cc?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0a0a0a)](https://elham-alavy.github.io/TodayILearned/) | [![Journal](https://img.shields.io/badge/📖_MY_JOURNAL-Things_That_Stayed_With_Me-e3b341?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0a0a0a)](https://elham-alavy.github.io/elham-journal/) |
 | Research · Data Engineering · Projects | Books · Music · Life · Notes | 23 pages · memories · letters 🌸 |
