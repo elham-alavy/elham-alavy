@@ -14,7 +14,7 @@
 
 | 🎓 Academic Portfolio | 🐰 Today I Learned | 📖 My Journal |
 |:---:|:---:|:---:|
-| [![Portfolio](https://img.shields.io/badge/🔬_ACADEMIC_PORTFOLIO-Visit_My_Research_Website-00ff88?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0a0a0a)](https://elham-alavy.github.io/portfolio) | [![TIL](https://img.shields.io/badge/🐰_TODAY_I_LEARNED-Daily_Life_with_🐰_&_🐻-ff88cc?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0a0a0a)](https://elham-alavy.github.io/TodayILearned/) | [![Journal](https://img.shields.io/badge/📖_MY_JOURNAL-Things_That_Stayed_With_Me-e3b341?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0a0a0a)](https://elham-alavy.github.io/Elham-Journal/) |
+| [![Portfolio](https://img.shields.io/badge/🔬_ACADEMIC_PORTFOLIO-Visit_My_Research_Website-00ff88?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0a0a0a)](https://elham-alavy.github.io/portfolio) | [![TIL](https://img.shields.io/badge/🐰_TODAY_I_LEARNED-Daily_Life_with_🐰_&_🐻-ff88cc?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0a0a0a)](https://elham-alavy.github.io/TodayILearned/) | [![Journal](https://img.shields.io/badge/📖_MY_JOURNAL-Things_That_Stayed_With_Me-e3b341?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0a0a0a)](https://elham-alavy.github.io/elham-journal/) |
 | Research · Data Engineering · Projects | Books · Music · Life · Notes | 23 pages · memories · letters 🌸 |
 
 </div>
@@ -80,7 +80,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-elhamhasanialavy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elhamhasanialavy)
 [![Portfolio](https://img.shields.io/badge/Portfolio-elham--alavy.github.io-00ff88?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0a0a0a)](https://elham-alavy.github.io/portfolio)
 [![TIL](https://img.shields.io/badge/🐰_TIL-TodayILearned-ff88cc?style=for-the-badge&labelColor=0a0a0a)](https://elham-alavy.github.io/TodayILearned/)
-[![Journal](https://img.shields.io/badge/📖_Journal-ElhamJournal-e3b341?style=for-the-badge&labelColor=0a0a0a)](https://elham-alavy.github.io/ElhamJournal/)
+[![Journal](https://img.shields.io/badge/📖_Journal-elham--journal-e3b341?style=for-the-badge&labelColor=0a0a0a)](https://elham-alavy.github.io/elham-journal/)
 
 ![Profile views](https://komarev.com/ghpvc/?username=elham-alavy&color=00ff88&style=flat-square&label=PROFILE+VIEWS)
 
