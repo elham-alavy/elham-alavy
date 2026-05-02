@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi there, I'm Elham Alavy 👋
-### Data Engineer · Researcher · University of Arizona
-*"Using data to inspire healthier communities and a better environment"*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=200&section=header&text=Elham%20Alavy&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=35&desc=Data%20Engineer%20%C2%B7%20PhD%20Researcher%20%C2%B7%20University%20of%20Arizona&descAlignY=55&descSize=16" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D9E75&center=true&vCenter=true&width=500&lines=Data+Engineer+%F0%9F%94%A7;Public+Health+%2B+Data+%3D+%E2%9D%A4%EF%B8%8F;Azure+%7C+AWS+%7C+Python+%7C+SQL;Building+pipelines+for+a+better+world+🌍)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF88&background=0D1117&center=true&vCenter=true&width=500&height=50&lines=Data+Engineer+%F0%9F%94%A7;Public+Health+%2B+Data+%3D+%E2%9D%A4%EF%B8%8F;Azure+%7C+AWS+%7C+Python+%7C+SQL;Building+pipelines+for+a+better+world+%F0%9F%8C%8D)](https://git.io/typing-svg)
+
+*"Using data to inspire healthier communities and a better environment"*
 
 [![Portfolio](https://img.shields.io/badge/🌍_HERE_YOU_CAN_SEE_ME-elham--alavy.github.io/portfolio-00ff88?style=for-the-badge&labelColor=0a0a0a)](https://elham-alavy.github.io/portfolio)
 
@@ -40,9 +40,10 @@
 
 <div align="center">
 
-![Elham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elham-alavy&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elham-alavy&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=elham-alavy&theme=tokyonight&hide_border=true)
+![Elham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elham-alavy&show_icons=true&hide_border=true&title_color=00ff88&icon_color=00ffff&text_color=c8fce0&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elham-alavy&layout=compact&hide_border=true&title_color=00ff88&text_color=c8fce0&bg_color=0d1117)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=elham-alavy&hide_border=true&ring=00ff88&fire=00ffff&currStreakLabel=00ff88&background=0d1117&dates=c8fce0&sideLabels=00ff88&sideNums=00ffff)
 
 </div>
 
@@ -50,8 +51,14 @@
 
 ### 📫 Get in touch
 
+<div align="center">
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elhamhasanialavy@arizona.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elhamhasanialavy)
-![Profile views](https://komarev.com/ghpvc/?username=elham-alavy&color=1D9E75&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=elham-alavy&color=00ff88&style=flat-square&label=PROFILE+VIEWS)
 
 😄 Pronouns: She/her
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=100&section=footer" width="100%"/>
