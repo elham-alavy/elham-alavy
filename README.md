@@ -12,10 +12,13 @@
 
 ### 🌐 Find me here
 
+> 👇 Click any card to open
+
 | 🎓 Academic Portfolio | 🐰 Today I Learned | 📖 My Journal |
 |:---:|:---:|:---:|
 | [![Portfolio](https://img.shields.io/badge/🔬_ACADEMIC_PORTFOLIO-Visit_My_Research_Website-00ff88?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0a0a0a)](https://elham-alavy.github.io/portfolio) | [![TIL](https://img.shields.io/badge/🐰_TODAY_I_LEARNED-Daily_Life_with_🐰_&_🐻-ff88cc?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0a0a0a)](https://elham-alavy.github.io/TodayILearned/) | [![Journal](https://img.shields.io/badge/📖_MY_JOURNAL-Things_That_Stayed_With_Me-e3b341?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0a0a0a)](https://elham-alavy.github.io/elham-journal/) |
 | Research · Data Engineering · Projects | Books · Music · Life · Notes | 23 pages · memories · letters 🌸 |
+| **[→ open](https://elham-alavy.github.io/portfolio)** | **[→ open](https://elham-alavy.github.io/TodayILearned/)** | **[→ open](https://elham-alavy.github.io/elham-journal/)** |
 
 </div>
 
