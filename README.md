@@ -53,8 +53,6 @@
 | 🌱 **Learning** | Cloud architecture — Azure & AWS |
 | 👯 **Looking to collaborate on** | Data pipelines for public health |
 | 🤔 **Looking for help with** | Scaling data pipelines on the cloud |
-| 💬 **Ask me about** | Data engineering, public health data & environmental datasets |
-| ⚡ **Fun fact** | I'm a table tennis champion 🏓 |
 
 ---
 
