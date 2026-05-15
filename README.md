@@ -10,7 +10,7 @@
 
 ---
 
-### Find me here
+### 
 
 | 🎓 Academic Portfolio | 🐰 Today I Learned | 📖 My Journal |
 |:---:|:---:|:---:|
