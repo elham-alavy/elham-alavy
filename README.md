@@ -10,9 +10,7 @@
 
 ---
 
-### 🌐 Find me here
-
-> 👇 Click any card to open
+### Find me here
 
 | 🎓 Academic Portfolio | 🐰 Today I Learned | 📖 My Journal |
 |:---:|:---:|:---:|
@@ -24,7 +22,7 @@
 
 ---
 
-### 🛠️ Tech stack
+### Tech stack
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50">
@@ -43,7 +41,7 @@
 
 ---
 
-### 🚀 What I'm up to
+###  What I'm up to
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="200"/>
 
