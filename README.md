@@ -6,7 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF88&background=0D1117&center=true&vCenter=true&width=500&height=50&lines=Research+Engineer+%F0%9F%94%A7;Public+Health+%2B+Data+%3D+%E2%9D%A4%EF%B8%8F;Azure+%7C+AWS+%7C+Python+%7C+SQL;Building+pipelines+for+a+better+world+%F0%9F%8C%8D;PhD+Researcher+%40+University+of+Arizona+%F0%9F%90%BB;Table+Tennis+Champion+%F0%9F%8F%93)](https://git.io/typing-svg)
 
-*"Using data to inspire healthier communities and a better environment"*
 
 ---
 
