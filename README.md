@@ -143,7 +143,6 @@ End-to-end pipeline computing physiological heat strain (Body Heat Storage, W) a
 
 ![Profile views](https://komarev.com/ghpvc/?username=elham-alavy&color=00ff88&style=flat-square&label=PROFILE+VIEWS)
 
-😄 Pronouns: She/her
 
 </div>
 
