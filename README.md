@@ -126,14 +126,6 @@ End-to-end pipeline computing physiological heat strain (Body Heat Storage, W) a
 
 ---
 
-### 🌐 3D Contribution Calendar
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/elham-alavy/elham-alavy/main/profile-3d-contrib/profile-night-rainbow.svg" width="70%"/>
-</div>
-
----
-
 ### 📊 What I'm up to
 
 <div align="center">
