@@ -8,20 +8,26 @@
 
 </div>
 
-```diff
-+ $ whoami
-+   Elham Alavy — Research Engineer · University of Arizona
-+
-+ $ cat research_focus.txt
-+   Environmental Health · Geospatial Data Science · Energy Systems
-+   Intelligent Urban Systems · Community Risk Mapping
-+
-+ $ echo $CURRENT_PROJECT
-+   BHS Heat Exposure Pipeline — 1,126 AZ census tracts · Google Earth Engine
-+
-+ $ cat stack.sh
-+   Python · R · SQL · Google Earth Engine · Apache Spark
-+   Azure · AWS · PostgreSQL · Docker · Git
+```yaml
+name:  Elham Alavy
+role:  Research Engineer @ University of Arizona
+focus: [ "Environmental Health", "Geospatial Data Science", "Energy Systems", "Intelligent Urban Systems" ]
+
+current_pipeline:
+  - "BHS Heat Exposure Pipeline — physiological heat strain across 1,126 AZ census tracts"
+  - "Satellite land surface temperature via Google Earth Engine"
+  - "Parcel-level HVAC analysis · Community heat-risk mapping"
+
+research_areas:
+  - geospatial:  "Remote sensing · Google Earth Engine · Spatial analysis"
+  - health:      "Environmental epidemiology · Heat-related illness · HRI regression"
+  - engineering: "Data pipelines · Cloud infrastructure · Azure & AWS"
+
+stack: [ "Python", "R", "SQL", "Google Earth Engine", "Apache Spark", "PostgreSQL", "Docker" ]
+
+ask_me_about: [ "Geospatial data", "Public health pipelines", "Remote sensing", "Data engineering" ]
+
+fun_fact: "Table tennis champion 🏓"
 ```
 
 ---
