@@ -26,7 +26,7 @@ research_areas:
 stack: [ "Python", "R", "SQL", "Google Earth Engine", "Apache Spark", "PostgreSQL", "Docker" ]
 
 
-irl:      "<span style='color:#001f5b'>in a committed relationship with coffee ☕ · co-parenting a rabbit named after a data structure 🐰</span>"
+irl:      "in a committed relationship with coffee ☕ · co-parenting a rabbit named after a data structure 🐰"
 ```
 
 ---
