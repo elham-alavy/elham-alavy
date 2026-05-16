@@ -126,21 +126,6 @@ End-to-end pipeline computing physiological heat strain (Body Heat Storage, W) a
 
 ---
 
-### 📊 What I'm up to
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="200"/>
-</div>
-
-| | |
-|---|---|
-| 🔭 **Working on** | Data engineering pipeline for heat-health community risk mapping |
-| 🌱 **Learning** | Cloud architecture — Azure & AWS |
-| 👯 **Looking to collaborate on** | Data pipelines for public health & climate equity |
-| 🤔 **Looking for help with** | Scaling geospatial data pipelines on the cloud |
-
----
-
 ### 📈 GitHub Stats
 
 <div align="center">
