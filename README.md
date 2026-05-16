@@ -89,31 +89,6 @@ End-to-end pipeline computing physiological heat strain (Body Heat Storage, W) a
 
 ---
 
-### 🌐 3D Contribution Calendar
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/elham-alavy/elham-alavy/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-
-</div>
-
----
-
-### 📊 What I'm up to
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="200"/>
-</div>
-
-| | |
-|---|---|
-| 🔭 **Working on** | Data engineering pipeline for heat-health community risk mapping |
-| 🌱 **Learning** | Cloud architecture — Azure & AWS |
-| 👯 **Looking to collaborate on** | Data pipelines for public health & climate equity |
-| 🤔 **Looking for help with** | Scaling geospatial data pipelines on the cloud |
-
----
-
 <!-- CHESS_START -->
 ### ♟️ Community Chess — Anyone Can Play!
 
@@ -146,6 +121,31 @@ End-to-end pipeline computing physiological heat strain (Body Heat Storage, W) a
 [![New Game](https://img.shields.io/badge/🔄_Reset_Game-gray?style=flat-square)](https://github.com/elham-alavy/elham-alavy/issues/new?title=chess%7Cnew&body=Click+Submit+to+reset+the+game.)
 
 <!-- CHESS_END -->
+
+---
+
+### 🌐 3D Contribution Calendar
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/elham-alavy/elham-alavy/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+
+</div>
+
+---
+
+### 📊 What I'm up to
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="200"/>
+</div>
+
+| | |
+|---|---|
+| 🔭 **Working on** | Data engineering pipeline for heat-health community risk mapping |
+| 🌱 **Learning** | Cloud architecture — Azure & AWS |
+| 👯 **Looking to collaborate on** | Data pipelines for public health & climate equity |
+| 🤔 **Looking for help with** | Scaling geospatial data pipelines on the cloud |
 
 ---
 
