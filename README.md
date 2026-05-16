@@ -19,6 +19,7 @@ current_pipeline:
   - "Parcel-level HVAC analysis · Community heat-risk mapping"
 
 research_areas:
+  - energy:      "Building energy · Energy systems · Urban energy modeling"
   - geospatial:  "Remote sensing · Google Earth Engine · Spatial analysis"
   - health:      "Environmental epidemiology · Heat-related illness · HRI regression"
   - engineering: "Data pipelines · Cloud infrastructure · Azure & AWS"
