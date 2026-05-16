@@ -38,8 +38,13 @@ current_pipeline:
   goal:    "Physiological heat strain (Body Heat Storage, W) across 1,126 AZ census tracts"
   inputs:  [ "Satellite LST (Google Earth Engine)", "Cotality parcel-level HVAC data", "ED heat-related illness records" ]
   outputs: [ "BHS scores per tract", "Cooling-type coverage maps", "HRI regression models", "Community risk index" ]
-  stack:   [ "Python", "R", "Google Earth Engine", "PostgreSQL", "Apache Spark" ]
 ```
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=flat-square&logo=google&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 
 ---
 
