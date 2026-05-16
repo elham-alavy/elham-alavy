@@ -25,7 +25,6 @@ research_areas:
 
 stack: [ "Python", "R", "SQL", "Google Earth Engine", "Apache Spark", "PostgreSQL", "Docker" ]
 
-ask_me_about: [ "Geospatial data", "Public health pipelines", "Remote sensing", "Data engineering" ]
 
 fun_fact: "I cannot work without coffee ☕"
 ```
