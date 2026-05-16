@@ -114,6 +114,40 @@ End-to-end pipeline computing physiological heat strain (Body Heat Storage, W) a
 
 ---
 
+<!-- CHESS_START -->
+### ♟️ Community Chess — Anyone Can Play!
+
+**⬜ WHITE's turn** — make a move by clicking a link below, then hit **Submit new issue**. That's it!
+
+|   | a | b | c | d | e | f | g | h |
+|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| **8** | ♜ | ♞ | ♝ | ♛ | ♚ | ♝ | ♞ | ♜ |
+| **7** | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ | ♟ |
+| **6** | ⬜ | ⬛ | ⬜ | ⬛ | ⬜ | ⬛ | ⬜ | ⬛ |
+| **5** | ⬛ | ⬜ | ⬛ | ⬜ | ⬛ | ⬜ | ⬛ | ⬜ |
+| **4** | ⬜ | ⬛ | ⬜ | ⬛ | ⬜ | ⬛ | ⬜ | ⬛ |
+| **3** | ⬛ | ⬜ | ⬛ | ⬜ | ⬛ | ⬜ | ⬛ | ⬜ |
+| **2** | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ | ♙ |
+| **1** | ♖ | ♘ | ♗ | ♕ | ♔ | ♗ | ♘ | ♖ |
+
+| FROM | TO — click a link to make your move |
+| :--: | ------------------------------------ |
+| **A2** | [**A3**](https://github.com/elham-alavy/elham-alavy/issues/new?title=chess%7Cmove%7Ca2a3&body=Click+Submit+to+play!) [**A4**](https://github.com/elham-alavy/elham-alavy/issues/new?title=chess%7Cmove%7Ca2a4&body=Click+Submit+to+play!) |
+| **B1** | [**A3**](https://github.com/elham-alavy/elham-alavy/issues/new?title=chess%7Cmove%7Cb1a3&body=Click+Submit+to+play!) [**C3**](https://github.com/elham-alavy/elham-alavy/issues/new?title=chess%7Cmove%7Cb1c3&body=Click+Submit+to+play!) |
+| **B2** | [**B3**](https://github.com/elham-alavy/elham-alavy/issues/new?title=chess%7Cmove%7Cb2b3&body=Click+Submit+to+play!) [**B4**](https://github.com/elham-alavy/elham-alavy/issues/new?title=chess%7Cmove%7Cb2b4&body=Click+Submit+to+play!) |
+| **C2** | [**C3**](https://github.com/elham-alavy/elham-alavy/issues/new?title=chess%7Cmove%7Cc2c3&body=Click+Submit+to+play!) [**C4**](https://github.com/elham-alavy/elham-alavy/issues/new?title=chess%7Cmove%7Cc2c4&body=Click+Submit+to+play!) |
+| **D2** | [**D3**](https://github.com/elham-alavy/elham-alavy/issues/new?title=chess%7Cmove%7Cd2d3&body=Click+Submit+to+play!) [**D4**](https://github.com/elham-alavy/elham-alavy/issues/new?title=chess%7Cmove%7Cd2d4&body=Click+Submit+to+play!) |
+| **E2** | [**E3**](https://github.com/elham-alavy/elham-alavy/issues/new?title=chess%7Cmove%7Ce2e3&body=Click+Submit+to+play!) [**E4**](https://github.com/elham-alavy/elham-alavy/issues/new?title=chess%7Cmove%7Ce2e4&body=Click+Submit+to+play!) |
+| **F2** | [**F3**](https://github.com/elham-alavy/elham-alavy/issues/new?title=chess%7Cmove%7Cf2f3&body=Click+Submit+to+play!) [**F4**](https://github.com/elham-alavy/elham-alavy/issues/new?title=chess%7Cmove%7Cf2f4&body=Click+Submit+to+play!) |
+| **G1** | [**F3**](https://github.com/elham-alavy/elham-alavy/issues/new?title=chess%7Cmove%7Cg1f3&body=Click+Submit+to+play!) [**H3**](https://github.com/elham-alavy/elham-alavy/issues/new?title=chess%7Cmove%7Cg1h3&body=Click+Submit+to+play!) |
+| **G2** | [**G3**](https://github.com/elham-alavy/elham-alavy/issues/new?title=chess%7Cmove%7Cg2g3&body=Click+Submit+to+play!) [**G4**](https://github.com/elham-alavy/elham-alavy/issues/new?title=chess%7Cmove%7Cg2g4&body=Click+Submit+to+play!) |
+| **H2** | [**H3**](https://github.com/elham-alavy/elham-alavy/issues/new?title=chess%7Cmove%7Ch2h3&body=Click+Submit+to+play!) [**H4**](https://github.com/elham-alavy/elham-alavy/issues/new?title=chess%7Cmove%7Ch2h4&body=Click+Submit+to+play!) |
+
+[![New Game](https://img.shields.io/badge/🔄_Reset_Game-gray?style=flat-square)](https://github.com/elham-alavy/elham-alavy/issues/new?title=chess%7Cnew&body=Click+Submit+to+reset+the+game.)
+<!-- CHESS_END -->
+
+---
+
 ### 📈 GitHub Stats
 
 <div align="center">

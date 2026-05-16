@@ -1,0 +1,43 @@
+name: Chess
+
+on:
+  issues:
+    types: [opened]
+
+concurrency:
+  group: chess-game
+  cancel-in-progress: false
+
+jobs:
+  move:
+    runs-on: ubuntu-latest
+    if: startsWith(github.event.issue.title, 'chess|')
+    permissions:
+      contents: write
+      issues: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install chess requests
+
+      - name: Play move
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          ISSUE_USER: ${{ github.event.issue.user.login }}
+        run: python chess_game/play.py
+
+      - name: Commit and push
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "github-actions[bot]"
+          git add .
+          git diff --staged --quiet || git commit -m "chess: ${{ github.event.issue.user.login }} played"
+          git push
