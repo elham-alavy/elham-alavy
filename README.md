@@ -26,7 +26,7 @@
 
 ---
 
-### 🌡️ Featured Project
+### 🔬 Current Pipeline
 
 <div align="center">
 <table><tr><td>
