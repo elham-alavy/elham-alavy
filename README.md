@@ -27,7 +27,7 @@ stack: [ "Python", "R", "SQL", "Google Earth Engine", "Apache Spark", "PostgreSQ
 
 ask_me_about: [ "Geospatial data", "Public health pipelines", "Remote sensing", "Data engineering" ]
 
-fun_fact: "Table tennis champion 🏓"
+fun_fact: "I cannot work without coffee ☕"
 ```
 
 ---
