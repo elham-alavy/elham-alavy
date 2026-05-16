@@ -26,7 +26,7 @@ research_areas:
 stack: [ "Python", "R", "SQL", "Google Earth Engine", "Apache Spark", "PostgreSQL", "Docker" ]
 
 
-fun_fact: "in a committed relationship with coffee ☕ · co-parenting a rabbit named after a data structure 🐰"
+irl:      "in a committed relationship with coffee ☕ · co-parenting a rabbit named after a data structure 🐰"
 ```
 
 ---
