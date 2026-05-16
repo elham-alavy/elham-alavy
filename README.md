@@ -13,7 +13,7 @@ name:  Elham Alavy
 role:  Research Engineer @ University of Arizona
 focus: [ "Environmental Health", "Geospatial Data Science", "Energy Systems", "Intelligent Urban Systems" ]
 
-current_pipeline:
+currently_working_on:
   - "BHS Heat Exposure Pipeline — physiological heat strain across 1,126 AZ census tracts"
   - "Satellite land surface temperature via Google Earth Engine"
   - "Parcel-level HVAC analysis · Community heat-risk mapping"
