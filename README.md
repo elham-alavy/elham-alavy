@@ -84,43 +84,6 @@ current_pipeline:
 
 ---
 
-<!-- CHESS_START -->
-### ♟️ Community Chess — Anyone Can Play!
-
-<div align="center">
-
-| ⬛ BLACK's turn | Move **#1** | Last move: `E2→E4` |
-| :-----------: | :-------: | :----------: |
-
-<img src="https://raw.githubusercontent.com/elham-alavy/elham-alavy/main/chess_game/board.svg" width="360"/>
-
-</div>
-
-> Click a destination square below, then hit **Submit new issue** — no text needed.
-
-| | From | Moves |
-| :-: | :-: | --- |
-| ♟ | **A7** | [**A5**](https://github.com/elham-alavy/elham-alavy/issues/new?title=chess%7Cmove%7Ca7a5&body=Click+Submit+to+play!) · [**A6**](https://github.com/elham-alavy/elham-alavy/issues/new?title=chess%7Cmove%7Ca7a6&body=Click+Submit+to+play!) |
-| ♟ | **B7** | [**B5**](https://github.com/elham-alavy/elham-alavy/issues/new?title=chess%7Cmove%7Cb7b5&body=Click+Submit+to+play!) · [**B6**](https://github.com/elham-alavy/elham-alavy/issues/new?title=chess%7Cmove%7Cb7b6&body=Click+Submit+to+play!) |
-| ♟ | **C7** | [**C5**](https://github.com/elham-alavy/elham-alavy/issues/new?title=chess%7Cmove%7Cc7c5&body=Click+Submit+to+play!) · [**C6**](https://github.com/elham-alavy/elham-alavy/issues/new?title=chess%7Cmove%7Cc7c6&body=Click+Submit+to+play!) |
-| ♟ | **D7** | [**D5**](https://github.com/elham-alavy/elham-alavy/issues/new?title=chess%7Cmove%7Cd7d5&body=Click+Submit+to+play!) · [**D6**](https://github.com/elham-alavy/elham-alavy/issues/new?title=chess%7Cmove%7Cd7d6&body=Click+Submit+to+play!) |
-| ♟ | **E7** | [**E5**](https://github.com/elham-alavy/elham-alavy/issues/new?title=chess%7Cmove%7Ce7e5&body=Click+Submit+to+play!) · [**E6**](https://github.com/elham-alavy/elham-alavy/issues/new?title=chess%7Cmove%7Ce7e6&body=Click+Submit+to+play!) |
-| ♟ | **F7** | [**F5**](https://github.com/elham-alavy/elham-alavy/issues/new?title=chess%7Cmove%7Cf7f5&body=Click+Submit+to+play!) · [**F6**](https://github.com/elham-alavy/elham-alavy/issues/new?title=chess%7Cmove%7Cf7f6&body=Click+Submit+to+play!) |
-| ♟ | **G7** | [**G5**](https://github.com/elham-alavy/elham-alavy/issues/new?title=chess%7Cmove%7Cg7g5&body=Click+Submit+to+play!) · [**G6**](https://github.com/elham-alavy/elham-alavy/issues/new?title=chess%7Cmove%7Cg7g6&body=Click+Submit+to+play!) |
-| ♟ | **H7** | [**H5**](https://github.com/elham-alavy/elham-alavy/issues/new?title=chess%7Cmove%7Ch7h5&body=Click+Submit+to+play!) · [**H6**](https://github.com/elham-alavy/elham-alavy/issues/new?title=chess%7Cmove%7Ch7h6&body=Click+Submit+to+play!) |
-| ♞ | **B8** | [**A6**](https://github.com/elham-alavy/elham-alavy/issues/new?title=chess%7Cmove%7Cb8a6&body=Click+Submit+to+play!) · [**C6**](https://github.com/elham-alavy/elham-alavy/issues/new?title=chess%7Cmove%7Cb8c6&body=Click+Submit+to+play!) |
-| ♞ | **G8** | [**F6**](https://github.com/elham-alavy/elham-alavy/issues/new?title=chess%7Cmove%7Cg8f6&body=Click+Submit+to+play!) · [**H6**](https://github.com/elham-alavy/elham-alavy/issues/new?title=chess%7Cmove%7Cg8h6&body=Click+Submit+to+play!) |
-
-<div align="center">
-
-[![🔄 Reset Game](https://img.shields.io/badge/🔄_Reset_Game-555?style=flat-square)](https://github.com/elham-alavy/elham-alavy/issues/new?title=chess%7Cnew&body=Click+Submit+to+reset.)
-
-</div>
-
-<!-- CHESS_END -->
-
----
-
 ### 📈 GitHub Stats
 
 <div align="center">
