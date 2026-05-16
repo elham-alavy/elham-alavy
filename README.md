@@ -13,8 +13,8 @@
 +   Elham Alavy — Research Engineer · University of Arizona
 +
 + $ cat research_focus.txt
-+   Environmental Health · Geospatial Data Science · Heat Vulnerability
-+   Physiological Heat Strain · Community Risk Mapping
++   Environmental Health · Geospatial Data Science · Energy Systems
++   Intelligent Urban Systems · Community Risk Mapping
 +
 + $ echo $CURRENT_PROJECT
 +   BHS Heat Exposure Pipeline — 1,126 AZ census tracts · Google Earth Engine
