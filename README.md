@@ -129,7 +129,7 @@ End-to-end pipeline computing physiological heat strain (Body Heat Storage, W) a
 
 ---
 
-### 📫 Get in touch
+### 🌐 Let's Connect
 
 <div align="center">
 
