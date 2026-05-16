@@ -8,6 +8,22 @@
 
 </div>
 
+```diff
++ $ whoami
++   Elham Alavy — Research Engineer · University of Arizona
++
++ $ cat research_focus.txt
++   Environmental Health · Geospatial Data Science · Heat Vulnerability
++   Physiological Heat Strain · Community Risk Mapping
++
++ $ echo $CURRENT_PROJECT
++   BHS Heat Exposure Pipeline — 1,126 AZ census tracts · Google Earth Engine
++
++ $ cat stack.sh
++   Python · R · SQL · Google Earth Engine · Apache Spark
++   Azure · AWS · PostgreSQL · Docker · Git
+```
+
 ---
 
 ### 🌡️ Featured Project
@@ -49,6 +65,26 @@ End-to-end pipeline computing physiological heat strain (Body Heat Storage, W) a
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=python,r,postgres,azure,aws,gcp,docker,git,bash,vscode&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+### 🏆 Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=elham-alavy&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+### 🌐 3D Contribution Calendar
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/elham-alavy/elham-alavy/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 
 </div>
 
