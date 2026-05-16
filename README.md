@@ -70,16 +70,6 @@ End-to-end pipeline computing physiological heat strain (Body Heat Storage, W) a
 
 ---
 
-### 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=elham-alavy&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ### 🌐 3D Contribution Calendar
 
 <div align="center">
