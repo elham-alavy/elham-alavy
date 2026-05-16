@@ -4,7 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&pause=800&color=4169E1&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=+%24+initializing+profile...;+%24+loading+Elham+Alavy...+%E2%9C%93;+%24+status%3A+READY+%F0%9F%9F%A2" alt="boot sequence"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4169E1&center=true&vCenter=true&width=700&height=50&lines=co-parenting+a+rabbit+named+after+a+data+structure+%F0%9F%90%B0;python+%C2%B7+R+%C2%B7+coffee+%C2%B7+repeat+%E2%98%95)](https://git.io/typing-svg)
 
 </div>
 
