@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Elham%20Alavy&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Research%20Engineer%20%C2%B7%20University%20of%20Arizona&descAlignY=55&descSize=16&descColor=00ff88" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&pause=800&color=00FF88&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=+%24+initializing+profile...;+%24+loading+Elham+Alavy...+%E2%9C%93;+%24+status%3A+READY+%F0%9F%9F%A2" alt="boot sequence"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&pause=800&color=4169E1&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=+%24+initializing+profile...;+%24+loading+Elham+Alavy...+%E2%9C%93;+%24+status%3A+READY+%F0%9F%9F%A2" alt="boot sequence"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF88&center=true&vCenter=true&width=700&height=50&lines=Research+Engineer+%F0%9F%94%A7;co-parenting+a+rabbit+named+after+a+data+structure+%F0%9F%90%B0;heat+maps+by+day+%C2%B7+table+tennis+by+night+%F0%9F%8F%93;python+%C2%B7+R+%C2%B7+coffee+%C2%B7+repeat+%E2%98%95;building+pipelines+for+a+better+world+%F0%9F%8C%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4169E1&center=true&vCenter=true&width=700&height=50&lines=Research+Engineer+%F0%9F%94%A7;co-parenting+a+rabbit+named+after+a+data+structure+%F0%9F%90%B0;heat+maps+by+day+%C2%B7+table+tennis+by+night+%F0%9F%8F%93;python+%C2%B7+R+%C2%B7+coffee+%C2%B7+repeat+%E2%98%95;building+pipelines+for+a+better+world+%F0%9F%8C%8D)](https://git.io/typing-svg)
 
 </div>
 
@@ -26,7 +26,7 @@ research_areas:
 stack: [ "Python", "R", "SQL", "Google Earth Engine", "Apache Spark", "PostgreSQL", "Docker" ]
 
 
-irl:      "in a committed relationship with coffee ☕ · co-parenting a rabbit named after a data structure 🐰"
+irl:      "<span style='color:#001f5b'>in a committed relationship with coffee ☕ · co-parenting a rabbit named after a data structure 🐰</span>"
 ```
 
 ---
