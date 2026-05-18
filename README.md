@@ -19,8 +19,8 @@ currently_working_on:
 
 research_areas:
   - energy:      "Building energy · Energy systems · Urban energy modeling"
-  - geospatial:  "Remote sensing · Google Earth Engine · Spatial analysis"
   - engineering: "Data pipelines · Cloud infrastructure · Azure & AWS"
+  - geospatial:  " Google Earth Engine · Spatial analysis · Remote sensing "
 
 stack: [ "Python", "R", "SQL", "Google Earth Engine", "Apache Spark", "PostgreSQL", "Docker" ]
 
