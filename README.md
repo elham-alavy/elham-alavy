@@ -9,7 +9,7 @@
 
 ```yaml
 name:  Elham Alavy
-role:  Research Engineer @ University of Arizona
+role:  Research Engineer!
 focus: [ "Environmental Health", "Geospatial Data Science", "Energy Systems", "Intelligent Urban Systems" ]
 
 currently_working_on:
