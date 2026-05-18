@@ -10,7 +10,7 @@
 ```yaml
 name:  Elham Alavy
 role:  Research Engineer!
-focus: [ "Environmental Health", "Geospatial Data Science", "Energy Systems", "Intelligent Urban Systems" ]
+focus: [  "Energy Systems", "Environmental Health", "Geospatial Data Science","Intelligent Urban Systems" ]
 
 currently_working_on:
   - "BHS Heat Exposure Pipeline — physiological heat strain across 1,126 AZ census tracts"
