@@ -9,7 +9,7 @@
 
 ```yaml
 name:  Elham Alavy
-role:  Research Engineer!
+role:  Reader!
 focus: [  "Energy Systems", "Environmental Health", "Geospatial Data Science","Intelligent Urban Systems" ]
 
 currently_working_on:
