@@ -13,8 +13,8 @@ role:  Reader!
 focus: [  "Energy Systems", "Environmental Health", "Geospatial Data Science","Intelligent Urban Systems" ]
 
 currently_working_on:
-  - "BHS Heat Exposure Pipeline — physiological heat strain across 1,126 AZ census tracts"
-  - "Satellite land surface temperature via Google Earth Engine"
+  - "Heat Exposure Pipeline — physiological heat strain"
+  - "Satellite land surface temperature, remote sensing"
   - "Parcel-level HVAC analysis · Community heat-risk mapping"
 
 research_areas:
