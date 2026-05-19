@@ -10,7 +10,7 @@
 ```yaml
 name:  Elham Alavy
 role:  Reader!
-focus: [  "Energy Systems", "Environmental Health", "Geospatial Data Science","Intelligent Urban Systems" ]
+Current focus: [  "Energy Systems", " Air Quality", "Environmental Health", "Geospatial Data Science","Intelligent Urban Systems" ]
 
 currently_working_on:
   - "Heat Exposure Pipeline — physiological heat strain"
