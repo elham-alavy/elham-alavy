@@ -50,7 +50,7 @@ solar_pipeline:
 ```yaml
 shade_equity_pipeline:
   name:    "Tucson Elementary School Shade Equity"
-  status:  "🟢 Active · University of Arizona · 2024"
+  status:  "🔒 Private · University of Arizona · 2026"
   goal:    "Identify which of 109 Tucson elementary schools face peak heat exposure AND lowest tree canopy — double-burden mapping"
   inputs:  [ "Satellite LST (Google Earth Engine)", "NAIP 2 m canopy imagery", "NLCD 30 m tree cover", "School parcel boundaries" ]
   outputs: [ "Double-burden school index (7 schools flagged)", "Heat × canopy equity maps", "NLCD vs. NAIP canopy comparison", "Neighborhood cluster analysis" ]
