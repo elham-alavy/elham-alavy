@@ -23,9 +23,9 @@ research_areas:
   - geospatial:  " Spatial analysis · Remote sensing (learning) "
 
 stack: [ "Python", "R", "SQL", "Google Earth Engine", "Apache Spark", "PostgreSQL", "Docker" ]
-```
 
-<code>il :</code>&nbsp; in a committed relationship with coffee ☕ &nbsp;·&nbsp; co-parenting a rabbit named after a data structure &nbsp;<img src="https://raw.githubusercontent.com/elham-alavy/elham-alavy/main/bunny-bounce.svg" height="30" align="absmiddle"/>
+il: "in a committed relationship with coffee ☕ · co-parenting a rabbit named after a data structure 🐰"
+```
 
 ---
 
