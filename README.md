@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=Elham%20Alavy&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=45" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=Elham%20Alavy&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=45" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&pause=800&color=4169E1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=+%24+initializing+profile...;+%24+loading+Elham+Alavy...+%E2%9C%93" alt="boot sequence"/>
 
 </div>
 
