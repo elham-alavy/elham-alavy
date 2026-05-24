@@ -2,49 +2,46 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Elham%20Alavy&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=45" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&pause=800&color=4169E1&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=+%24+initializing+profile...;+%24+loading+Elham+Alavy...+%E2%9C%93;+%24+status%3A+READY+%F0%9F%9F%A2" alt="boot sequence"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&pause=800&color=00ff88&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=+%24+booting+elham-alavy.research.node+...;+%24+status%3A+ONLINE+%F0%9F%9F%A2+%7C+mode%3A+research+%2B+build;+%24+currently%3A+pipelines+running+%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93%E2%96%93+caffeinating+%E2%98%95" alt="boot sequence"/>
 
 
 </div>
 
-```yaml
-name:  Elham ( means INSPIRATION!) Alavy
-role:  Reader!
-Current focus: [  "Energy Systems", " Air Quality", "Environmental Health", "Geospatial Data Science","Urban Systems" ]
+```bash
+┌─────────────────────────────────────────────────────────────────┐
+│  ◉  elham-alavy.research.node  ·  University of Arizona · 2026  │
+└─────────────────────────────────────────────────────────────────┘
 
-currently_working_on:
-  - "Heat Exposure Pipeline — physiological heat strain"
-  - "Satellite land surface temperature, remote sensing"
-  - "Parcel-level HVAC analysis · Community heat-risk mapping"
+$ whoami
+  Elham Alavy  (means INSPIRATION!)
+  PhD Researcher  ·  environmental health & data systems
 
-research_areas:
-  - energy:      "Building energy · Energy systems · Urban energy modeling"
-  - engineering: "Data pipelines · Cloud infrastructure · Azure & AWS"
-  - geospatial:  " Spatial analysis · Remote sensing (learning) "
+$ cat /etc/research.conf
+  domains  ──▶  Energy Systems  ·  Air Quality  ·  Environmental Health
+               Geospatial Data Science  ·  Urban Systems
+  stack    ──▶  Python  ·  R  ·  SQL  ·  Google Earth Engine
+               Apache Spark  ·  PostgreSQL  ·  Docker
+  cloud    ──▶  Azure  ·  AWS  ·  GCP
+  mode     ──▶  [ ● ACTIVE ]  building quietly, shipping slowly
 
-stack: [ "Python", "R", "SQL", "Google Earth Engine", "Apache Spark", "PostgreSQL", "Docker" ]
+$ ps aux --pipelines
+  ┌──────────────────────────────────────────────────────────────┐
+  │  PID 2401  bhs-heat-exposure-pipeline          🔒 Private    │
+  │  STATUS    ▓▓▓▓▓▓▓▓░░  RUNNING                              │
+  │  GOAL      physiological heat strain (W) · 1,126 AZ tracts  │
+  │  IN        LST (GEE) · HVAC parcel data · ED records        │
+  │  OUT       BHS scores · cooling maps · HRI models           │
+  ├──────────────────────────────────────────────────────────────┤
+  │  PID 2402  tusd-solar-pv-site-selection        🔒 Private    │
+  │  STATUS    ██████████  COMPLETE ✓ 2026                       │
+  │  GOAL      rooftop solar PV · 95 TUSD school buildings      │
+  │  IN        source EUI · FCI assessments · GIS footprints    │
+  │  OUT       top-15 schools · scoring CSV · map · PDF report  │
+  └──────────────────────────────────────────────────────────────┘
 
-il: "in a committed relationship with coffee ☕ · co-parenting a rabbit named after a data structure 🐰"
-```
-
----
-
-```yaml
-current_pipeline:
-  name:    "BHS Heat Exposure Pipeline"
-  status:  "🔒 Private · University of Arizona"
-  goal:    "Physiological heat strain (Body Heat Storage, W) across 1,126 AZ census tracts"
-  inputs:  [ "Satellite LST (Google Earth Engine)", "Cotality parcel-level HVAC data", "ED heat-related illness records" ]
-  outputs: [ "BHS scores per tract", "Cooling-type coverage maps", "HRI regression models", "Community risk index" ]
-```
-
-```yaml
-solar_pipeline:
-  name:    "TUSD Solar PV Site Selection"
-  status:  "🔒 Private · University of Arizona · 2026"
-  goal:    "Rooftop solar PV feasibility ranking across 95 Tucson Unified School District buildings"
-  inputs:  [ "TUSD FY2024 building energy use (Source EUI)", "Facility Condition Index assessments", "Microsoft GIS Building Footprints", "Google Earth Engine satellite imagery" ]
-  outputs: [ "Top 15 candidate schools (30-pt composite score)", "Gap / Jenks statistical pool sizing", "Interactive selection map", "Technical report (PDF)" ]
+$ tail -1 /var/log/life.log
+  ☕ in a committed relationship with coffee
+  🐰 co-parenting a rabbit named after a data structure
 ```
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
