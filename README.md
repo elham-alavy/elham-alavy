@@ -8,40 +8,39 @@
 </div>
 
 ```bash
-┌─────────────────────────────────────────────────────────────────┐
-│  ◉  elham-alavy.research.node  ·  University of Arizona · 2026  │
-└─────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════╗
+║   elham-alavy @ research.node  ·  University of Arizona  · 2026 ║
+╚══════════════════════════════════════════════════════════════════╝
 
 $ whoami
-  Elham Alavy  (means INSPIRATION!)
-  PhD Researcher  ·  environmental health & data systems
+  name      :  Elham Alavy
+  role      :  PhD Researcher — Environmental Health & Data Systems
+  org       :  University of Arizona
+  status    :  [ ● ACTIVE ]
 
 $ cat /etc/research.conf
-  domains  ──▶  Energy Systems  ·  Air Quality  ·  Environmental Health
+  domains   :  Energy Systems  ·  Air Quality  ·  Environmental Health
                Geospatial Data Science  ·  Urban Systems
-  stack    ──▶  Python  ·  R  ·  SQL  ·  Google Earth Engine
+  stack     :  Python  ·  R  ·  SQL  ·  Google Earth Engine
                Apache Spark  ·  PostgreSQL  ·  Docker
-  cloud    ──▶  Azure  ·  AWS  ·  GCP
-  mode     ──▶  [ ● ACTIVE ]  building quietly, shipping slowly
+  cloud     :  Azure  ·  AWS  ·  GCP
+  methods   :  Spatial Analysis  ·  Remote Sensing  ·  Data Engineering
 
-$ ps aux --pipelines
-  ┌──────────────────────────────────────────────────────────────┐
-  │  PID 2401  bhs-heat-exposure-pipeline          🔒 Private    │
-  │  STATUS    ▓▓▓▓▓▓▓▓░░  RUNNING                              │
-  │  GOAL      physiological heat strain (W) · 1,126 AZ tracts  │
-  │  IN        LST (GEE) · HVAC parcel data · ED records        │
-  │  OUT       BHS scores · cooling maps · HRI models           │
-  ├──────────────────────────────────────────────────────────────┤
-  │  PID 2402  tusd-solar-pv-site-selection        🔒 Private    │
-  │  STATUS    ██████████  COMPLETE ✓ 2026                       │
-  │  GOAL      rooftop solar PV · 95 TUSD school buildings      │
-  │  IN        source EUI · FCI assessments · GIS footprints    │
-  │  OUT       top-15 schools · scoring CSV · map · PDF report  │
-  └──────────────────────────────────────────────────────────────┘
+$ top --research-pipelines
+  PROCESS                         PID    STATUS      PROGRESS
+  ──────────────────────────────────────────────────────────────────
+  bhs-heat-exposure-pipeline      2401   RUNNING     ▓▓▓▓▓▓▓▓░░  🔒
+    goal  :  heat strain (BHS, W) · 1,126 AZ census tracts
+    in    :  Satellite LST (GEE)  ·  HVAC parcel data  ·  ED records
+    out   :  BHS scores/tract  ·  cooling maps  ·  HRI models
 
-$ tail -1 /var/log/life.log
-  ☕ in a committed relationship with coffee
-  🐰 co-parenting a rabbit named after a data structure
+  tusd-solar-pv-selection         2402   COMPLETE ✓  ██████████  🔒
+    goal  :  rooftop PV feasibility · 95 TUSD school buildings
+    in    :  Source EUI  ·  FCI assessments  ·  GIS footprints
+    out   :  top-15 ranked sites  ·  composite scores  ·  PDF report
+
+$ echo $MOTD
+  "☕ committed to coffee  ·  🐰 co-parenting a data-structure rabbit"
 ```
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
