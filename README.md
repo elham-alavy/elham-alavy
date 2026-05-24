@@ -38,6 +38,15 @@ current_pipeline:
   outputs: [ "BHS scores per tract", "Cooling-type coverage maps", "HRI regression models", "Community risk index" ]
 ```
 
+```yaml
+solar_pipeline:
+  name:    "TUSD Solar PV Site Selection"
+  status:  "🔒 Private · University of Arizona · 2026"
+  goal:    "Rooftop solar PV feasibility ranking across 95 Tucson Unified School District buildings"
+  inputs:  [ "TUSD FY2024 building energy use (Source EUI)", "Facility Condition Index assessments", "Microsoft GIS Building Footprints", "Google Earth Engine satellite imagery" ]
+  outputs: [ "Top 15 candidate schools (30-pt composite score)", "Gap / Jenks statistical pool sizing", "Interactive selection map", "Technical report (PDF)" ]
+```
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=flat-square&logo=google&logoColor=white)
