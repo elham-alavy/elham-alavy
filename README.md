@@ -30,7 +30,7 @@ il: "in a committed relationship with coffee ☕ · co-parenting a rabbit named 
 ---
 
 ```yaml
-current_pipeline:
+BHS_pipeline:
   name:    "BHS Heat Exposure Pipeline"
   status:  "🔒 Private · University of Arizona"
   goal:    "Physiological heat strain (Body Heat Storage, W) across 1,126 AZ census tracts"
