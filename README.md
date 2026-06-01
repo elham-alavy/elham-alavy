@@ -17,9 +17,10 @@ currently_working_on:
   - "Parcel-level HVAC analysis · Heat Exposure Pipeline"
 
 research_areas:
+  - geospatial:  " Spatial analysis · Remote sensing (learning) "
   - energy:      "Urban energy modeling · Energy systems ·"
   - data: "Data pipelines · Cloud infrastructure "
-  - geospatial:  " Spatial analysis · Remote sensing (learning) "
+  
 
 stack: [ "Python", "R", "SQL", "Google Earth Engine", "Apache Spark", "PostgreSQL", "Docker" ]
 
