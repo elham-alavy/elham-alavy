@@ -12,12 +12,12 @@ role:  Reader!
 Current focus: [  "Urban Systems", "Climate exposures", "Environmental Analysis", "Geospatial Data Science" ]
 
 currently_working_on:
-  - "Heat Exposure Pipeline — physiological heat strain"
+  - "Community heat-risk mapping — Geospatial Analysis"
   - "Satellite land surface temperature, remote sensing"
-  - "Parcel-level HVAC analysis · Community heat-risk mapping"
+  - "Parcel-level HVAC analysis · Heat Exposure Pipeline"
 
 research_areas:
-  - energy:      "Building energy · Energy systems · Urban energy modeling"
+  - energy:      "Urban energy modeling · Energy systems ·"
   - engineering: "Data pipelines · Cloud infrastructure · Azure & AWS"
   - geospatial:  " Spatial analysis · Remote sensing (learning) "
 
