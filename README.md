@@ -12,7 +12,7 @@ role:  Reader!
 Current focus: [  "Urban Systems", "Climate exposures", "Environmental Analysis", "Geospatial Data Science" ]
 
 currently_working_on:
-  - "Community heat-risk mapping · Geospatial Analysis"
+  - "Community risk mapping · Geospatial Analysis"
   - "Satellite land surface temperature ·remote sensing"
   - "Parcel-level HVAC analysis · Heat Exposure Pipeline"
 
