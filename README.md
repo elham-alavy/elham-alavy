@@ -32,7 +32,7 @@ il: "in a committed relationship with coffee ☕ · co-parenting a rabbit named 
 BHS_pipeline:
   name:    "BHS Heat Exposure Pipeline"
   status:  "🔒 Private · University of Arizona"
-  goal:    "Physiological heat strain (Body Heat Storage, W) across 1,126 AZ census tracts"
+  goal:    "Community risk mapping & Physiological heat strain (Body Heat Storage, W) estimation across 1,126 AZ census tracts"
   inputs:  [ "Satellite LST (Google Earth Engine)", "Cotality parcel-level HVAC data", "ED heat-related illness records" ]
   outputs: [ "BHS scores per tract", "Cooling-type coverage maps", "HRI regression models", "Community risk index" ]
 ```
