@@ -9,7 +9,7 @@
 ```yaml
 name:  Elham ( means INSPIRATION!) Alavy
 role:  Reader!
-Current focus: [  "Energy Systems", " Air Quality", "Environmental Health", "Geospatial Data Science","Urban Systems" ]
+Current focus: [  "Urban Systems", "Climate exposures", "Environmental Analysis", "Geospatial Data Science" ]
 
 currently_working_on:
   - "Heat Exposure Pipeline — physiological heat strain"
