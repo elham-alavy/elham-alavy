@@ -17,7 +17,7 @@ currently_working_on:
   - "Parcel-level HVAC analysis · Heat Exposure Pipeline"
 
 research_areas:
-  - geospatial:  " Spatial analysis · Remote sensing (learning) "
+  - geospatial:  " Spatial analysis · Remote sensing "
   - energy:      "Urban energy modeling · Energy systems ·"
   - data: "Data pipelines · Cloud infrastructure "
   
