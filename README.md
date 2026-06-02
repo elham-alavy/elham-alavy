@@ -9,7 +9,7 @@
 ```yaml
 name:  Elham ( means INSPIRATION!) Alavy
 role:  Reader!
-Current focus: [  "Urban Systems", "Climate exposures", "Environmental Analysis", "Geospatial Data Science" ]
+Current focus: [   "Climate exposures", "Environmental Analysis", "Energy Systems", "Geospatial Data Science" ]
 
 currently_working_on:
   - "Community risk mapping · Geospatial Analysis"
