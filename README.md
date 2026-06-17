@@ -47,6 +47,15 @@ solar_pipeline:
   outputs: [ "Top 15 candidate schools (30-pt composite score)", "Gap / Jenks statistical pool sizing", "Interactive selection map", "Technical report (PDF)" ]
 ```
 
+```yaml
+data_centers:
+  name:    "AZ/FL Data Center Water Governance"
+  status:  "🌐 Public · github.com/elham-alavy/Data-Centers"
+  goal:    "Comparative policy analysis of how Arizona and Florida regulate data center water use, with an automated monitoring agent tracking new regulatory developments weekly"
+  inputs:  [ "Public regulatory records · council proceedings · state statutes", "Industry facility directories (Baxtel, DCD, datacentermap)", "Web search via scheduled Claude Code agent" ]
+  outputs: [ "Coded regulatory case tracker (AZ + FL)", "Structured facility location dataset", "Weekly monitoring agent (run_monitor.sh)", "Journal paper in progress: Scarcity Without Centralization" ]
+```
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=flat-square&logo=google&logoColor=white)
