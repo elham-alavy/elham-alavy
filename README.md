@@ -1,92 +1,99 @@
 <div align="center">
 
-<img src="assets/profile-banner.svg" width="100%" alt="Elham Hasani Alavy — Systems, Energy, Climate, Data" />
+<img src="assets/profile-banner.svg" width="100%" alt="Elham Hasani Alavy" />
 
-### Buildings are never just buildings. They are systems of systems.
+### Think beyond buildings.<br>Connect disciplines.<br><strong>Engineer better decisions.</strong>
 
-I work across **energy, carbon, environment, data, and people**—connecting architecture, engineering, geospatial analysis, and artificial intelligence to build better ways of understanding complex systems and making decisions.
-
-[Explore my work](https://elham-alavy.github.io/portfolio) · [Read my journal](https://elham-alavy.github.io/elham-journal/) · [Today I Learned](https://elham-alavy.github.io/TodayILearned/) · [Connect on LinkedIn](https://www.linkedin.com/in/elhamhasanialavy)
+[Philosophy](#philosophy) · [Contributions](#current-contributions) · [Research](#research-domains) · [Connect](#connect)
 
 </div>
 
 ---
 
-<img src="assets/section-building.svg" width="100%" alt="Current contributions" />
+<a id="philosophy"></a>
 
-### HeatTwin · Open Digital Twin Platform
+### BUILDINGS ARE NEVER JUST BUILDINGS.
 
-A building-intelligence platform connecting physical assets, environmental conditions, energy performance, and data-driven operational insight.
+They are systems of systems.
 
-**Contribution:** Platform Architecture · Research & Development<br>
-`Digital Twins` `Building Intelligence` `Data Architecture`
+**Energy. Carbon. Environment. Data. People.**
 
-### See Beyond · Reasoning-Based Learning Platform
+---
 
-A learning environment for undergraduate and graduate students designed to make disciplinary reasoning visible—not simply to deliver answers.
+<a id="current-contributions"></a>
 
-**Contribution:** Creator · Instructor · Course Designer<br>
-`Reasoning` `Learning Design` `AI Literacy` `Higher Education`
+<img src="assets/section-building.svg" width="100%" alt="Current Contributions" />
 
-### Becoming Biomass · RVTR Research Collaboration
+### HeatTwin
 
-A research collaboration exploring biomass, energy simulation, and alternative material futures across architecture and environmental systems.
+**Open Digital Twin Platform**
 
-**Contribution:** Energy Simulator<br>
-`Biomass` `Material Futures` `Energy Simulation`
+Building intelligence platform.
+
+**Contribution**<br>Platform Architecture · Research & Development
+
+### See Beyond
+
+**Reasoning-Based Learning Platform**
+
+Reasoning-based educational design for undergraduate and graduate students.
+
+**Contribution**<br>Creator · Instructor · Course Designer
+
+### Becoming Biomass
+
+**RVTR Research Collaboration**
+
+Biomass and material futures.
+
+**Contribution**<br>Energy Simulator
 
 ### Heat, Health & HRI using BHS
 
-A building heat-stress analytics pipeline connecting satellite land-surface temperature, parcel-level cooling conditions, health outcomes, and environmental exposure across Arizona communities.
+**Building Heat Stress Analytics**
 
-**Contribution:** Platform Architecture & Pipeline Designer<br>
-`Heat Exposure` `Environmental Health` `Remote Sensing` `Spatial Analysis`
+Heat, health and environmental analytics.
+
+**Contribution**<br>Platform Architecture & Pipeline Designer
 
 ### TUSD Solar Suitability Analysis
 
-A rooftop photovoltaic decision-support workflow integrating building energy performance, facility condition, roof geometry, solar potential, and financial feasibility.
+**Rooftop PV Decision Support**
 
-**Contribution:** Energy Analyst<br>
-`Solar Suitability` `Building Energy` `Spatial Decision Support`
+Solar suitability and financial analysis.
 
-### Electrification at Arizona · SRP
+**Contribution**<br>Energy Analyst
 
-Building electrification and energy-transition analysis supporting the shift toward lower-carbon, resilient energy systems.
+### Electrification at Arizona (SRP)
 
-**Contribution:** Energy Systems Analyst<br>
-`Electrification` `Energy Transition` `Decarbonization`
+**Building Electrification & Energy Transition**
 
----
+Energy transition planning.
 
-<img src="assets/section-research.svg" width="100%" alt="Research constellation" />
-
-```text
-Architecture ───── Energy Systems ───── Whole-Life Carbon
-      │                   │                      │
-Urban Analytics ─── Digital Twins ─── Artificial Intelligence
-      │                   │                      │
-Environment ─────────── Data ─────────────── People
-                          ↓
-                 Better decisions
-```
+**Contribution**<br>Energy Systems Analyst
 
 ---
 
-<img src="assets/section-work.svg" width="100%" alt="Selected work" />
+<a id="research-domains"></a>
 
-- **[BHS Project](https://github.com/elham-alavy/BHS_project)** — heat exposure, environmental health, remote sensing, and spatial epidemiology.
-- **[Academic Portfolio](https://elham-alavy.github.io/portfolio)** — research, analysis, and selected project outcomes.
-- **[Today I Learned](https://elham-alavy.github.io/TodayILearned/)** — concise notes from ongoing technical and intellectual work.
-- **[Journal](https://elham-alavy.github.io/elham-journal/)** — reflections, ideas, and writing that connect technical work with lived experience.
+<img src="assets/section-research.svg" width="100%" alt="Research Domains" />
+
+`Architecture` · `Energy Systems` · `Whole-Life Carbon` · `Digital Twins` · `Urban Analytics` · `Artificial Intelligence`
 
 ---
 
-<img src="assets/section-connect.svg" width="100%" alt="Let’s connect" />
+<a id="connect"></a>
+
+<img src="assets/section-connect.svg" width="100%" alt="Connect" />
 
 <div align="center">
 
-### The future will be built by people who connect disciplines.
+[Open Portfolio →](https://elham-alavy.github.io/portfolio) · [Explore GitHub →](https://github.com/elham-alavy) · [Read Journal →](https://elham-alavy.github.io/elham-journal/) · [Connect on LinkedIn →](https://www.linkedin.com/in/elhamhasanialavy) · [Visit TIL →](https://elham-alavy.github.io/TodayILearned/) · [Email](mailto:elhamhasanialavy@arizona.edu)
 
-[Portfolio](https://elham-alavy.github.io/portfolio) · [GitHub](https://github.com/elham-alavy) · [Journal](https://elham-alavy.github.io/elham-journal/) · [LinkedIn](https://www.linkedin.com/in/elhamhasanialavy) · [Today I Learned](https://elham-alavy.github.io/TodayILearned/) · [Email](mailto:elhamhasanialavy@arizona.edu)
+---
+
+### The future
+
+will be built by people who connect disciplines.
 
 </div>
