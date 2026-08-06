@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-long-v2.svg" width="100%" alt="Elham Hasani Alavy — Think beyond buildings. Engineer better solutions. Systems, energy, climate, data, current contributions, research domains, and ways to connect." />
+<img src="assets/profile-long-v3.svg" width="100%" alt="Elham Hasani Alavy — Think beyond buildings. Engineer better solutions. Current contributions, research domains, and ways to connect." />
 
 <sub>CLICKABLE LINKS</sub>
 
@@ -15,10 +15,6 @@
 
 <details>
 <summary>Accessible text version</summary>
-
-## Philosophy
-
-**Buildings are never just buildings.** They are systems of systems: energy, carbon, environment, data, and people.
 
 ## Current Contributions
 

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="935" height="4580" viewBox="0 0 935 4580">
+<svg xmlns="http://www.w3.org/2000/svg" width="935" height="3780" viewBox="0 0 935 3780">
   <defs>
     <radialGradient id="background" cx="50%" cy="0%" r="78%">
       <stop offset="0" stop-color="#13203a"/><stop offset=".7" stop-color="#05070d"/><stop offset="1" stop-color="#05070d"/>
@@ -27,16 +27,16 @@
     <clipPath id="typePhraseTwo"><rect x="310" y="522" width="0" height="48"><animate attributeName="width" values="0;0;330;330;0" keyTimes="0;.52;.78;.94;1" dur="10s" repeatCount="indefinite"/></rect></clipPath>
   </defs>
 
-  <rect width="935" height="4580" fill="url(#background)"/>
-  <rect width="935" height="4580" fill="url(#grid)"/>
-  <rect width="935" height="4580" fill="url(#particlesA)"/>
-  <rect width="935" height="4580" fill="url(#particlesB)"/>
+  <rect width="935" height="3780" fill="url(#background)"/>
+  <rect width="935" height="3780" fill="url(#grid)"/>
+  <rect width="935" height="3780" fill="url(#particlesA)"/>
+  <rect width="935" height="3780" fill="url(#particlesB)"/>
 
   <!-- fixed navigation, represented once in the static README image -->
   <rect width="935" height="57" fill="#05070d" fill-opacity=".84"/>
   <path d="M0 56.5H935" stroke="#22344d"/>
   <g fill="#98abc4" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">
-    <text x="286" y="36">Philosophy</text><text x="420" y="36">Contributions</text><text x="550" y="36">Research</text><text x="660" y="36">Connect</text>
+    <text x="337" y="36">Contributions</text><text x="487" y="36">Research</text><text x="607" y="36">Connect</text>
   </g>
 
   <!-- full-height hero -->
@@ -50,13 +50,7 @@
   </g>
   <rect x="367" y="640" width="200" height="2" fill="url(#heroLine)"/>
 
-  <!-- philosophy: coordinates and rhythm follow the supplied PDF -->
-  <g font-family="Inter,Segoe UI,Arial,sans-serif">
-    <text x="27" y="1355" fill="#eef4fb" font-size="38" font-weight="700" letter-spacing="5"><tspan x="27">BUILDINGS ARE NEVER JUST</tspan><tspan x="27" dy="45">BUILDINGS.</tspan></text>
-    <text x="27" y="1483" fill="#98abc4" font-size="24">They are systems of systems.</text>
-    <g fill="#eef4fb" font-size="24"><text x="27" y="1565">Energy.</text><text x="27" y="1620">Carbon.</text><text x="27" y="1675">Environment.</text><text x="27" y="1730">Data.</text><text x="27" y="1785">People.</text></g>
-  </g>
-
+  <g transform="translate(0 -800)">
   <!-- contributions: two-column responsive state captured in the PDF -->
   <g font-family="Inter,Segoe UI,Arial,sans-serif">
     <text x="27" y="2045" fill="#74b9ff" font-size="21" font-weight="650" letter-spacing="4">CURRENT CONTRIBUTIONS</text>
@@ -99,4 +93,5 @@
 
   <!-- footer -->
   <text x="467.5" y="4415" text-anchor="middle" fill="#eef4fb" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="31" font-weight="700">The future is interdisciplinary.</text>
+  </g>
 </svg>
