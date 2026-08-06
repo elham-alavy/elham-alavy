@@ -1,16 +1,9 @@
 <div align="center">
-
-<img src="assets/profile-long-v3.svg" width="100%" alt="Elham Hasani Alavy — Think beyond buildings. Engineer better solutions. Current contributions, research domains, and ways to connect." />
-
-<sub>CLICKABLE LINKS</sub>
-
-<a href="https://elham-alavy.github.io/portfolio"><img src="assets/connect-portfolio.svg" width="48%" alt="Open Portfolio" /></a>
-<a href="https://github.com/elham-alavy"><img src="assets/connect-github.svg" width="48%" alt="Explore GitHub" /></a>
-<a href="https://elham-alavy.github.io/elham-journal/"><img src="assets/connect-journal.svg" width="48%" alt="Read Journal" /></a>
-<a href="https://www.linkedin.com/in/elhamhasanialavy"><img src="assets/connect-linkedin.svg" width="48%" alt="Connect on LinkedIn" /></a>
-<a href="https://elham-alavy.github.io/TodayILearned/"><img src="assets/connect-til.svg" width="48%" alt="Visit Today I Learned" /></a>
-<a href="mailto:elhamhasanialavy@arizona.edu"><img src="assets/connect-email.svg" width="48%" alt="Email Elham Hasani Alavy" /></a>
-
+<img src="assets/profile-main-v4.svg" width="100%" align="top" alt="Elham Hasani Alavy — Think beyond buildings. Engineer better solutions. Current contributions, research domains, and ways to connect." /><br>
+<a href="https://elham-alavy.github.io/portfolio"><img src="assets/connect-portfolio-v2.svg" width="50%" align="top" alt="Open Portfolio" /></a><a href="https://github.com/elham-alavy"><img src="assets/connect-github-v2.svg" width="50%" align="top" alt="Explore GitHub" /></a><br>
+<a href="https://elham-alavy.github.io/elham-journal/"><img src="assets/connect-journal-v2.svg" width="50%" align="top" alt="Read Journal" /></a><a href="https://www.linkedin.com/in/elhamhasanialavy"><img src="assets/connect-linkedin-v2.svg" width="50%" align="top" alt="Connect on LinkedIn" /></a><br>
+<a href="https://elham-alavy.github.io/TodayILearned/"><img src="assets/connect-til-v2.svg" width="50%" align="top" alt="Visit Today I Learned" /></a><a href="mailto:elhamhasanialavy@arizona.edu"><img src="assets/connect-email-v2.svg" width="50%" align="top" alt="Email Elham Hasani Alavy" /></a><br>
+<img src="assets/profile-footer-v4.svg" width="100%" align="top" alt="The future is interdisciplinary." />
 </div>
 
 <details>
