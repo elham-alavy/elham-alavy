@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="0%" r="100%"><stop offset="0" stop-color="#172744"/><stop offset=".72" stop-color="#080d17"/><stop offset="1" stop-color="#05070d"/></radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#fff" stroke-opacity=".045"/></pattern>
+    <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/><rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <g fill="#f7d35c" filter="url(#glow)"><circle cx="90" cy="75" r="2"/><circle cx="192" cy="288" r="1.5"/><circle cx="330" cy="62" r="1"/><circle cx="876" cy="82" r="1.5"/><circle cx="1072" cy="252" r="2"/><circle cx="990" cy="122" r="1"/></g>
+  <path d="M145 181H370M830 181h225" stroke="#74b9ff" stroke-opacity=".6"/>
+  <text x="600" y="151" text-anchor="middle" fill="#eef4fb" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="54" font-weight="650" letter-spacing="7">ELHAM HASANI ALAVY</text>
+  <text x="600" y="205" text-anchor="middle" fill="#a9bad0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" letter-spacing="4">SYSTEMS · ENERGY · CLIMATE · DATA</text>
+  <text x="600" y="267" text-anchor="middle" fill="#f7d35c" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="600">Engineer better decisions.</text>
+  <rect x="1" y="1" width="1198" height="358" rx="23" fill="none" stroke="#2b4261"/>
+</svg>
