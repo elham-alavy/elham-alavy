@@ -1,135 +1,65 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=Elham%20Alavy&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=45" width="100%"/>
+# Elham Hasani Alavy
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&pause=800&color=4169E1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=+%24+initializing+profile..." alt="boot sequence"/>
+### Think beyond buildings.<br>Connect disciplines.<br><strong>Engineer better decisions.</strong>
+
+[Philosophy](#philosophy) · [Contributions](#current-contributions) · [Research](#research-domains) · [Connect](#connect)
 
 </div>
 
-```yaml
-name:  Elham ( means INSPIRATION!) Alavy
-role:  Reader!
-Current focus: [   "Climate exposures", "Environmental Analysis", "Energy Systems", "Geospatial Data Science" ]
+---
 
-currently_working_on:
-  - "Community risk mapping · Geospatial Analysis"
-  - "Satellite land surface temperature ·remote sensing"
-  - "Parcel-level HVAC analysis · Heat Exposure Pipeline"
+## Philosophy
 
-research_areas:
-  - geospatial:  " Spatial analysis · Remote sensing "
-  - energy:      "Urban energy modeling · Energy systems ·"
-  - data: "Data pipelines · Cloud infrastructure "
-  
+### BUILDINGS ARE NEVER JUST BUILDINGS.
 
-stack: [ "Python", "R", "SQL", "Google Earth Engine", "Apache Spark", "PostgreSQL", "Docker" ]
+They are systems of systems.
 
-
-```
+**Energy. Carbon. Environment. Data. People.**
 
 ---
 
-```yaml
-BHS_pipeline:
-  name:    "Community risk mapping Pipeline"
-  status:  "🔒 Private · University of Arizona"
-  goal:    "Community risk mapping & Physiological heat strain (W) estimation across all AZ census tracts"
-  inputs:  [ "Satellite LST (Google Earth Engine)", "Cotality parcel-level HVAC data", "ED heat-related illness records" ]
-  outputs: [ "Physiological heat strain  scores per tract", "Cooling-type coverage maps", "HRI regression models", "Community risk index" ]
-```
+## Current Contributions
 
-```yaml
-solar_pipeline:
-  name:    "TUSD Solar PV Site Selection"
-  status:  "🔒 Private · University of Arizona · 2026"
-  goal:    "Rooftop solar PV feasibility ranking across 95 Tucson Unified School District buildings"
-  inputs:  [ "TUSD FY2024 building energy use (Source EUI)", "Facility Condition Index assessments", "Microsoft GIS Building Footprints", "Google Earth Engine satellite imagery" ]
-  outputs: [ "Top 15 candidate schools (30-pt composite score)", "Gap / Jenks statistical pool sizing", "Interactive selection map", "Technical report (PDF)" ]
-```
+| Project | Focus | Contribution |
+|---|---|---|
+| **HeatTwin** | Open Digital Twin Platform — building intelligence platform | Platform Architecture · Research & Development |
+| **See Beyond** | Reasoning-Based Learning Platform — educational design for undergraduate and graduate students | Creator · Instructor · Course Designer |
+| **Becoming Biomass** | RVTR Research Collaboration — biomass and material futures | Energy Simulator |
+| **Heat, Health & HRI using BHS** | Building Heat Stress Analytics — heat, health, and environmental analytics | Platform Architecture & Pipeline Designer |
+| **TUSD Solar Suitability Analysis** | Rooftop PV Decision Support — solar suitability and financial analysis | Energy Analyst |
+| **Electrification at Arizona (SRP)** | Building Electrification & Energy Transition — energy transition planning | Energy Systems Analyst |
 
-```yaml
-data_centers:
-  name:    "AZ/FL Data Center Water Governance"
-  status:  "🔒 Private · University of Arizona · 2026"
-  goal:    "Comparative policy analysis of how Arizona and Florida regulate data center water use, with an automated monitoring agent tracking new regulatory developments weekly"
-  inputs:  [ "Public regulatory records · council proceedings · state statutes", "Industry facility directories (Baxtel, DCD, datacentermap)", "Web search via scheduled Claude Code agent" ]
-  outputs: [ "Coded regulatory case tracker (AZ + FL)", "Structured facility location dataset" ]
-```
+---
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=flat-square&logo=google&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+## Research Domains
+
+| | |
+|---|---|
+| Architecture | Energy Systems |
+| Whole-Life Carbon | Digital Twins |
+| Urban Analytics | Artificial Intelligence |
+
+---
+
+## Connect
+
+| Destination | Link |
+|---|---|
+| Portfolio | [Open Portfolio →](https://elham-alavy.github.io/portfolio) |
+| GitHub | [Explore GitHub →](https://github.com/elham-alavy) |
+| Journal | [Read Journal →](https://elham-alavy.github.io/elham-journal/) |
+| LinkedIn | [Connect on LinkedIn →](https://www.linkedin.com/in/elhamhasanialavy) |
+| Today I Learned | [Visit TIL →](https://elham-alavy.github.io/TodayILearned/) |
+| Email | [elhamhasanialavy@arizona.edu](mailto:elhamhasanialavy@arizona.edu) |
 
 ---
 
 <div align="center">
 
-| 🎓 Academic Portfolio | 🐰 Today I Learned | 📖 Journal |
-|:---:|:---:|:---:|
-| [![Portfolio](https://img.shields.io/badge/🔬_ACADEMIC_PORTFOLIO-Visit_My_Research_Website-00ff88?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0a0a0a)](https://elham-alavy.github.io/portfolio) | [![TIL](https://img.shields.io/badge/🐰_TODAY_I_LEARNED-Daily_Life_with_🐰_&_🐻-ff88cc?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0a0a0a)](https://elham-alavy.github.io/TodayILearned/) | [![Journal](https://img.shields.io/badge/📖_MY_JOURNAL-Things_That_Stayed_With_Me-e3b341?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=0a0a0a)](https://elham-alavy.github.io/elham-journal/) |
-| Research · Data Engineering · Projects | Books · Music · Life · Notes | 23 pages · memories · letters |
-| **[→ open](https://elham-alavy.github.io/portfolio)** | **[→ open](https://elham-alavy.github.io/TodayILearned/)** | **[→ open](https://elham-alavy.github.io/elham-journal/)** |
+## The future
+
+will be built by people who connect disciplines.
 
 </div>
-
----
-
-### ⚡ Tech Stack
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=python,r,postgres,azure,aws,gcp,docker,git,bash,vscode&theme=dark)](https://skillicons.dev)
-
-</div>
-
----
-
-### 🐍 Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/elham-alavy/elham-alavy/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/elham-alavy/elham-alavy/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://github.com/elham-alavy/elham-alavy/blob/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-
-![Elham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elham-alavy&show_icons=true&hide_border=true&title_color=00ff88&icon_color=00ffff&text_color=c8fce0&bg_color=0d1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elham-alavy&layout=compact&hide_border=true&title_color=00ff88&text_color=c8fce0&bg_color=0d1117)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=elham-alavy&hide_border=true&ring=00ff88&fire=00ffff&currStreakLabel=00ff88&background=0d1117&dates=c8fce0&sideLabels=00ff88&sideNums=00ffff)
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=elham-alavy&bg_color=0d1117&color=00ff88&line=00ffff&point=00ff88&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-### 🌐 Let's Connect
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30"/>
-
-[![Email](https://img.shields.io/badge/Email-elhamhasanialavy%40arizona.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elhamhasanialavy@arizona.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-elhamhasanialavy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elhamhasanialavy)
-[![Portfolio](https://img.shields.io/badge/Portfolio-elham--alavy.github.io-00ff88?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0a0a0a)](https://elham-alavy.github.io/portfolio)
-[![TIL](https://img.shields.io/badge/🐰_TIL-TodayILearned-ff88cc?style=for-the-badge&labelColor=0a0a0a)](https://elham-alavy.github.io/TodayILearned/)
-[![Journal](https://img.shields.io/badge/📖_Journal-elham--journal-e3b341?style=for-the-badge&labelColor=0a0a0a)](https://elham-alavy.github.io/elham-journal/)
-
-![Profile views](https://komarev.com/ghpvc/?username=elham-alavy&color=00ff88&style=flat-square&label=PROFILE+VIEWS)
-
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&animation=twinkling" width="100%"/>
