@@ -23,6 +23,8 @@
         <circle cx="358" cy="710" r="1.5" opacity=".5"><animate attributeName="opacity" values=".18;.85;.18" dur="6.9s" begin="-3.2s" repeatCount="indefinite"/></circle>
       </g>
     </pattern>
+    <clipPath id="typePhraseOne"><rect x="330" y="522" width="0" height="48"><animate attributeName="width" values="0;290;290;0;0" keyTimes="0;.25;.40;.48;1" dur="10s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="typePhraseTwo"><rect x="310" y="522" width="0" height="48"><animate attributeName="width" values="0;0;330;330;0" keyTimes="0;.52;.78;.94;1" dur="10s" repeatCount="indefinite"/></rect></clipPath>
   </defs>
 
   <rect width="935" height="4580" fill="url(#background)"/>
@@ -38,14 +40,15 @@
   </g>
 
   <!-- full-height hero -->
-  <rect x="367" y="450" width="200" height="2" fill="url(#heroLine)"/>
-  <text x="467.5" y="548" text-anchor="middle" fill="#eef4fb" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="58" font-weight="650" letter-spacing="5">Elham Hasani Alavy</text>
+  <rect x="367" y="380" width="200" height="2" fill="url(#heroLine)"/>
+  <text x="467.5" y="478" text-anchor="middle" fill="#eef4fb" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="58" font-weight="650" letter-spacing="5">Elham Hasani Alavy</text>
   <g text-anchor="middle" fill="#eef4fb" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23">
-    <text x="467.5" y="625">Think beyond buildings.</text>
-    <text x="467.5" y="668">Connect disciplines.</text>
-    <text x="467.5" y="711" font-weight="700">Engineer better decisions.</text>
+    <text x="467.5" y="556" clip-path="url(#typePhraseOne)">Think beyond buildings.<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.47;.48;1" dur="10s" repeatCount="indefinite"/></text>
+    <text x="467.5" y="556" font-weight="700" clip-path="url(#typePhraseTwo)">Engineer better solutions.<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.51;.52;.98;1" dur="10s" repeatCount="indefinite"/></text>
+    <rect x="330" y="528" width="2" height="34" fill="#f7d35c"><animate attributeName="x" values="330;620;620;330;330" keyTimes="0;.25;.40;.48;1" dur="10s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;.47;.48;1" dur="10s" repeatCount="indefinite"/></rect>
+    <rect x="310" y="528" width="2" height="34" fill="#f7d35c"><animate attributeName="x" values="310;310;640;640;310" keyTimes="0;.52;.78;.94;1" dur="10s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.51;.52;.98;1" dur="10s" repeatCount="indefinite"/></rect>
   </g>
-  <rect x="367" y="758" width="200" height="2" fill="url(#heroLine)"/>
+  <rect x="367" y="640" width="200" height="2" fill="url(#heroLine)"/>
 
   <!-- philosophy: coordinates and rhythm follow the supplied PDF -->
   <g font-family="Inter,Segoe UI,Arial,sans-serif">
