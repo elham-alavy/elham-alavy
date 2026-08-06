@@ -1,8 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="128" viewBox="0 0 1200 128">
   <defs><linearGradient id="b" x2="1"><stop stop-color="#0b121e"/><stop offset=".5" stop-color="#0e1624"/><stop offset="1" stop-color="#070a12"/></linearGradient><pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity=".025"/></pattern></defs>
   <rect width="1200" height="128" rx="16" fill="url(#b)"/><rect width="1200" height="128" rx="16" fill="url(#g)"/><rect width="4" height="128" rx="2" fill="#8fa7bf"/>
+  <g fill="#f7d35c"><circle cx="1010" cy="40" r="1" opacity=".4"/><circle cx="1040" cy="82" r="1.8" opacity=".7"/><circle cx="1080" cy="34" r="2.6" opacity=".9"/></g>
   <path d="M1060 64h82m-20-20 20 20-20 20" fill="none" stroke="#8fa7bf" stroke-width="2"/>
-  <text x="54" y="57" fill="#8fa7bf" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="4">04 · CONNECT</text>
+  <text x="54" y="57" fill="#8fa7bf" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" letter-spacing="4">04 · CONNECT</text>
   <text x="54" y="92" fill="#eef4fb" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="650">Connect</text>
   <rect x="1" y="1" width="1198" height="126" rx="15" fill="none" stroke="#26364a"/>
 </svg>

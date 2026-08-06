@@ -1,9 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330">
   <defs><radialGradient id="b" cx="18%" cy="18%" r="100%"><stop stop-color="#111b2a"/><stop offset=".55" stop-color="#0b111c"/><stop offset="1" stop-color="#070a12"/></radialGradient><pattern id="g" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#fff" stroke-opacity=".025"/></pattern></defs>
   <rect width="1200" height="330" rx="22" fill="url(#b)"/><rect width="1200" height="330" rx="22" fill="url(#g)"/><rect x="1" y="1" width="1198" height="328" rx="21" fill="none" stroke="#26364a"/>
-  <text x="60" y="68" fill="#8fa7bf" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="5">01 · PHILOSOPHY</text>
+  <g fill="#f7d35c"><circle cx="1082" cy="52" r="1" opacity=".45"/><circle cx="1128" cy="82" r="1.8" opacity=".75"/><circle cx="1160" cy="42" r="2.6" opacity=".9"/></g>
+  <text x="60" y="68" fill="#8fa7bf" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" letter-spacing="5">01 · PHILOSOPHY</text>
   <text x="60" y="135" fill="#eef4fb" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="36" font-weight="700" letter-spacing="2">BUILDINGS ARE NEVER JUST BUILDINGS.</text>
   <text x="60" y="188" fill="#aabbd0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24">They are systems of systems.</text>
   <path d="M60 226H1140" stroke="#26364a"/>
-  <text x="60" y="278" fill="#8fa7bf" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21" letter-spacing="4">ENERGY · CARBON · ENVIRONMENT · DATA · PEOPLE</text>
+  <text x="60" y="278" fill="#8fa7bf" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" letter-spacing="4">ENERGY · CARBON · ENVIRONMENT · DATA · PEOPLE</text>
 </svg>
