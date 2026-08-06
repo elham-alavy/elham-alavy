@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="128" viewBox="0 0 1200 128">
+  <defs><linearGradient id="b" x2="1"><stop stop-color="#071516"/><stop offset=".5" stop-color="#102b2d"/><stop offset="1" stop-color="#071516"/></linearGradient><pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern></defs>
+  <rect width="1200" height="128" rx="16" fill="url(#b)"/><rect width="1200" height="128" rx="16" fill="url(#g)"/><rect width="8" height="128" rx="4" fill="#63d4c7"/>
+  <g fill="none" stroke="#63d4c7" stroke-opacity=".75"><rect x="1060" y="34" width="38" height="38" rx="5"/><rect x="1108" y="56" width="38" height="38" rx="5"/></g>
+  <text x="54" y="57" fill="#63d4c7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="4">PROJECTS &amp; OUTPUTS</text>
+  <text x="54" y="92" fill="#eef4fb" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="650">Selected work</text>
+  <rect x="1" y="1" width="1198" height="126" rx="15" fill="none" stroke="#1f4b4b"/>
+</svg>

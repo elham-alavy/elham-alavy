@@ -12,7 +12,7 @@ I work where **architecture, energy systems, climate resilience, geospatial anal
 
 ---
 
-## What I’m building now
+<img src="assets/section-building.svg" width="100%" alt="What I’m building now" />
 
 ### Heat, Health & the Built Environment
 
@@ -34,7 +34,7 @@ A reasoning-based learning platform designed for undergraduate and graduate lear
 
 ---
 
-## Research constellation
+<img src="assets/section-research.svg" width="100%" alt="Research constellation" />
 
 ```text
 Architecture ───── Building Energy ───── Whole-Life Carbon
@@ -46,13 +46,15 @@ Climate Resilience ─ Geospatial Data ─── Digital Twins
 
 ---
 
-## Selected work
+<img src="assets/section-work.svg" width="100%" alt="Selected work" />
 
 - **[BHS Project](https://github.com/elham-alavy/BHS_project)** — heat exposure, environmental health, remote sensing, and spatial epidemiology.
 - **[Academic Portfolio](https://elham-alavy.github.io/portfolio)** — research, analysis, and selected project outcomes.
 - **[Today I Learned](https://elham-alavy.github.io/TodayILearned/)** — concise notes from ongoing technical and intellectual work.
 
 ---
+
+<img src="assets/section-connect.svg" width="100%" alt="Let’s connect" />
 
 <div align="center">
 
