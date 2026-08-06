@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="128" viewBox="0 0 1200 128">
-  <defs><linearGradient id="b" x2="1"><stop stop-color="#08121d"/><stop offset=".5" stop-color="#102841"/><stop offset="1" stop-color="#08121d"/></linearGradient><pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern></defs>
-  <rect width="1200" height="128" rx="16" fill="url(#b)"/><rect width="1200" height="128" rx="16" fill="url(#g)"/><rect width="8" height="128" rx="4" fill="#74b9ff"/>
-  <path d="M1060 82l35-44 35 44" fill="none" stroke="#74b9ff" stroke-opacity=".7"/><circle cx="1060" cy="82" r="4" fill="#74b9ff"/><circle cx="1095" cy="38" r="4" fill="#74b9ff"/><circle cx="1130" cy="82" r="4" fill="#74b9ff"/>
-  <text x="54" y="57" fill="#74b9ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="4">RESEARCH</text>
-  <text x="54" y="92" fill="#eef4fb" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="650">Research Domains</text>
-  <rect x="1" y="1" width="1198" height="126" rx="15" fill="none" stroke="#23405d"/>
-</svg>

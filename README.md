@@ -8,79 +8,17 @@
 
 </div>
 
----
-
 <a id="philosophy"></a>
 
-### BUILDINGS ARE NEVER JUST BUILDINGS.
-
-They are systems of systems.
-
-**Energy. Carbon. Environment. Data. People.**
-
----
+<img src="assets/panel-philosophy.svg" width="100%" alt="Buildings are never just buildings. They are systems of systems. Energy. Carbon. Environment. Data. People." />
 
 <a id="current-contributions"></a>
 
-<img src="assets/section-building.svg" width="100%" alt="Current Contributions" />
-
-### HeatTwin
-
-**Open Digital Twin Platform**
-
-Building intelligence platform.
-
-**Contribution**<br>Platform Architecture · Research & Development
-
-### See Beyond
-
-**Reasoning-Based Learning Platform**
-
-Reasoning-based educational design for undergraduate and graduate students.
-
-**Contribution**<br>Creator · Instructor · Course Designer
-
-### Becoming Biomass
-
-**RVTR Research Collaboration**
-
-Biomass and material futures.
-
-**Contribution**<br>Energy Simulator
-
-### Heat, Health & HRI using BHS
-
-**Building Heat Stress Analytics**
-
-Heat, health and environmental analytics.
-
-**Contribution**<br>Platform Architecture & Pipeline Designer
-
-### TUSD Solar Suitability Analysis
-
-**Rooftop PV Decision Support**
-
-Solar suitability and financial analysis.
-
-**Contribution**<br>Energy Analyst
-
-### Electrification at Arizona (SRP)
-
-**Building Electrification & Energy Transition**
-
-Energy transition planning.
-
-**Contribution**<br>Energy Systems Analyst
-
----
+<img src="assets/panel-contributions.svg" width="100%" alt="Current Contributions" />
 
 <a id="research-domains"></a>
 
-<img src="assets/section-research.svg" width="100%" alt="Research Domains" />
-
-`Architecture` · `Energy Systems` · `Whole-Life Carbon` · `Digital Twins` · `Urban Analytics` · `Artificial Intelligence`
-
----
+<img src="assets/panel-research.svg" width="100%" alt="Research Domains" />
 
 <a id="connect"></a>
 
@@ -88,12 +26,13 @@ Energy transition planning.
 
 <div align="center">
 
-[Open Portfolio →](https://elham-alavy.github.io/portfolio) · [Explore GitHub →](https://github.com/elham-alavy) · [Read Journal →](https://elham-alavy.github.io/elham-journal/) · [Connect on LinkedIn →](https://www.linkedin.com/in/elhamhasanialavy) · [Visit TIL →](https://elham-alavy.github.io/TodayILearned/) · [Email](mailto:elhamhasanialavy@arizona.edu)
+<a href="https://elham-alavy.github.io/portfolio"><img src="assets/connect-portfolio.svg" width="32%" alt="Open Portfolio" /></a>
+<a href="https://github.com/elham-alavy"><img src="assets/connect-github.svg" width="32%" alt="Explore GitHub" /></a>
+<a href="https://elham-alavy.github.io/elham-journal/"><img src="assets/connect-journal.svg" width="32%" alt="Read Journal" /></a>
+<a href="https://www.linkedin.com/in/elhamhasanialavy"><img src="assets/connect-linkedin.svg" width="32%" alt="Connect on LinkedIn" /></a>
+<a href="https://elham-alavy.github.io/TodayILearned/"><img src="assets/connect-til.svg" width="32%" alt="Visit TIL" /></a>
+<a href="mailto:elhamhasanialavy@arizona.edu"><img src="assets/connect-email.svg" width="32%" alt="Email" /></a>
 
----
-
-### The future
-
-will be built by people who connect disciplines.
+<img src="assets/panel-future.svg" width="100%" alt="The future will be built by people who connect disciplines." />
 
 </div>
