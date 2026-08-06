@@ -2,9 +2,9 @@
 
 <img src="assets/profile-banner.svg" width="100%" alt="Elham Hasani Alavy — Systems, Energy, Climate, Data" />
 
-### Buildings are never just buildings.
+### Buildings are never just buildings. They are systems of systems.
 
-I work where **architecture, energy systems, climate resilience, geospatial analysis, and data** meet—building research pipelines and decision tools for complex environmental problems.
+I work across **energy, carbon, environment, data, and people**—connecting architecture, engineering, geospatial analysis, and artificial intelligence to build better ways of understanding complex systems and making decisions.
 
 [Explore my work](https://elham-alavy.github.io/portfolio) · [Read my journal](https://elham-alavy.github.io/elham-journal/) · [Today I Learned](https://elham-alavy.github.io/TodayILearned/) · [Connect on LinkedIn](https://www.linkedin.com/in/elhamhasanialavy)
 
@@ -12,36 +12,62 @@ I work where **architecture, energy systems, climate resilience, geospatial anal
 
 ---
 
-<img src="assets/section-building.svg" width="100%" alt="What I’m building now" />
+<img src="assets/section-building.svg" width="100%" alt="Current contributions" />
 
-### Heat, Health & the Built Environment
+### HeatTwin · Open Digital Twin Platform
 
-An environmental-health pipeline connecting satellite land-surface temperature, parcel-level cooling data, health outcomes, and physiological heat-strain estimation across Arizona communities.
+A building-intelligence platform connecting physical assets, environmental conditions, energy performance, and data-driven operational insight.
 
-`Remote Sensing` `Spatial Analysis` `Environmental Health` `R` `Google Earth Engine`
+**Contribution:** Platform Architecture · Research & Development<br>
+`Digital Twins` `Building Intelligence` `Data Architecture`
 
-### Thermal Twin
+### See Beyond · Reasoning-Based Learning Platform
 
-A building-intelligence platform for connecting energy performance, environmental conditions, and digital-twin workflows.
+A learning environment for undergraduate and graduate students designed to make disciplinary reasoning visible—not simply to deliver answers.
 
-`Digital Twins` `Building Energy` `Data Pipelines` `Research & Development`
+**Contribution:** Creator · Instructor · Course Designer<br>
+`Reasoning` `Learning Design` `AI Literacy` `Higher Education`
 
-### See Beyond
+### Becoming Biomass · RVTR Research Collaboration
 
-A reasoning-based learning platform designed for undergraduate and graduate learners—not to supply answers, but to make thinking visible.
+A research collaboration exploring biomass, energy simulation, and alternative material futures across architecture and environmental systems.
 
-`Learning Design` `AI Literacy` `Reasoning` `Higher Education`
+**Contribution:** Energy Simulator<br>
+`Biomass` `Material Futures` `Energy Simulation`
+
+### Heat, Health & HRI using BHS
+
+A building heat-stress analytics pipeline connecting satellite land-surface temperature, parcel-level cooling conditions, health outcomes, and environmental exposure across Arizona communities.
+
+**Contribution:** Platform Architecture & Pipeline Designer<br>
+`Heat Exposure` `Environmental Health` `Remote Sensing` `Spatial Analysis`
+
+### TUSD Solar Suitability Analysis
+
+A rooftop photovoltaic decision-support workflow integrating building energy performance, facility condition, roof geometry, solar potential, and financial feasibility.
+
+**Contribution:** Energy Analyst<br>
+`Solar Suitability` `Building Energy` `Spatial Decision Support`
+
+### Electrification at Arizona · SRP
+
+Building electrification and energy-transition analysis supporting the shift toward lower-carbon, resilient energy systems.
+
+**Contribution:** Energy Systems Analyst<br>
+`Electrification` `Energy Transition` `Decarbonization`
 
 ---
 
 <img src="assets/section-research.svg" width="100%" alt="Research constellation" />
 
 ```text
-Architecture ───── Building Energy ───── Whole-Life Carbon
-      │                    │                     │
-Climate Resilience ─ Geospatial Data ─── Digital Twins
-                           │
-                 Better public decisions
+Architecture ───── Energy Systems ───── Whole-Life Carbon
+      │                   │                      │
+Urban Analytics ─── Digital Twins ─── Artificial Intelligence
+      │                   │                      │
+Environment ─────────── Data ─────────────── People
+                          ↓
+                 Better decisions
 ```
 
 ---
@@ -51,6 +77,7 @@ Climate Resilience ─ Geospatial Data ─── Digital Twins
 - **[BHS Project](https://github.com/elham-alavy/BHS_project)** — heat exposure, environmental health, remote sensing, and spatial epidemiology.
 - **[Academic Portfolio](https://elham-alavy.github.io/portfolio)** — research, analysis, and selected project outcomes.
 - **[Today I Learned](https://elham-alavy.github.io/TodayILearned/)** — concise notes from ongoing technical and intellectual work.
+- **[Journal](https://elham-alavy.github.io/elham-journal/)** — reflections, ideas, and writing that connect technical work with lived experience.
 
 ---
 
@@ -60,6 +87,6 @@ Climate Resilience ─ Geospatial Data ─── Digital Twins
 
 ### The future will be built by people who connect disciplines.
 
-[Email](mailto:elhamhasanialavy@arizona.edu) · [GitHub](https://github.com/elham-alavy) · [LinkedIn](https://www.linkedin.com/in/elhamhasanialavy)
+[Portfolio](https://elham-alavy.github.io/portfolio) · [GitHub](https://github.com/elham-alavy) · [Journal](https://elham-alavy.github.io/elham-journal/) · [LinkedIn](https://www.linkedin.com/in/elhamhasanialavy) · [Today I Learned](https://elham-alavy.github.io/TodayILearned/) · [Email](mailto:elhamhasanialavy@arizona.edu)
 
 </div>

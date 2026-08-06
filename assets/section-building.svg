@@ -2,7 +2,7 @@
   <defs><linearGradient id="b" x2="1"><stop stop-color="#0a101c"/><stop offset=".5" stop-color="#17223a"/><stop offset="1" stop-color="#0a101c"/></linearGradient><pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern></defs>
   <rect width="1200" height="128" rx="16" fill="url(#b)"/><rect width="1200" height="128" rx="16" fill="url(#g)"/><rect x="0" y="0" width="8" height="128" rx="4" fill="#f7d35c"/>
   <circle cx="1120" cy="42" r="3" fill="#f7d35c"/><circle cx="1080" cy="88" r="1.5" fill="#f7d35c"/>
-  <text x="54" y="57" fill="#f7d35c" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="4">CURRENT FOCUS</text>
-  <text x="54" y="92" fill="#eef4fb" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="650">What I’m building now</text>
+  <text x="54" y="57" fill="#f7d35c" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="4">CURRENT WORK</text>
+  <text x="54" y="92" fill="#eef4fb" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="650">Current contributions</text>
   <rect x="1" y="1" width="1198" height="126" rx="15" fill="none" stroke="#3b3a28"/>
 </svg>
