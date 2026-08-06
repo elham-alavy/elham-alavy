@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-long.svg" width="100%" alt="Elham Hasani Alavy — Think beyond buildings. Engineer better solutions. Systems, energy, climate, data, current contributions, research domains, and ways to connect." />
+<img src="assets/profile-long-v2.svg" width="100%" alt="Elham Hasani Alavy — Think beyond buildings. Engineer better solutions. Systems, energy, climate, data, current contributions, research domains, and ways to connect." />
 
 <sub>CLICKABLE LINKS</sub>
 
