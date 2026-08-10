@@ -3,7 +3,7 @@
 <a href="https://elham-alavy.github.io/portfolio"><img src="assets/connect-portfolio-v3.svg" width="50%" align="top" alt="Open Portfolio" /></a><a href="https://github.com/elham-alavy"><img src="assets/connect-github-v3.svg" width="50%" align="top" alt="Explore GitHub" /></a><br>
 <a href="https://elham-alavy.github.io/elham-journal/"><img src="assets/connect-journal-v3.svg" width="50%" align="top" alt="Read Journal" /></a><a href="https://www.linkedin.com/in/elhamhasanialavy"><img src="assets/connect-linkedin-v3.svg" width="50%" align="top" alt="Connect on LinkedIn" /></a><br>
 <a href="https://elham-alavy.github.io/TodayILearned/"><img src="assets/connect-til-v3.svg" width="50%" align="top" alt="Visit Today I Learned" /></a><a href="mailto:elhamhasanialavy@arizona.edu"><img src="assets/connect-email-v3.svg" width="50%" align="top" alt="Email Elham Hasani Alavy" /></a><br>
-<img src="assets/profile-footer-v6.svg" width="100%" align="top" alt="Live your world of dreams. Adapted from Susan Polis Schutz, To My Daughter with Love, page 35." />
+<img src="assets/profile-footer-v6.svg" width="100%" align="top" alt="Live your world of dreams. Adapted from Susan Polis Schutz’s book, To My Daughter with Love, page 35." />
 </div>
 
 <details>
@@ -33,6 +33,6 @@ Building Science · Energy Systems · Whole-Life Carbon · Digital Twins · Urba
 
 > “Live your world of dreams.”
 >
-> — Adapted from Susan Polis Schutz, *To My Daughter with Love*, p. 35
+> — Adapted from Susan Polis Schutz’s book, *To My Daughter with Love*, p. 35
 
 </details>
