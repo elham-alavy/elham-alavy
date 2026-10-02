@@ -1,38 +1,49 @@
-<div align="center">
-<img src="assets/profile-main-v6.svg" width="100%" align="top" alt="Elham Hasani Alavy — Think beyond buildings. Engineer better solutions. Current contributions, research domains, education background, and ways to connect." /><br>
-<a href="https://elham-alavy.github.io/portfolio"><img src="assets/connect-portfolio-v3.svg" width="50%" align="top" alt="Open Portfolio" /></a><a href="https://github.com/elham-alavy"><img src="assets/connect-github-v3.svg" width="50%" align="top" alt="Explore GitHub" /></a><br>
-<a href="https://elham-alavy.github.io/elham-journal/"><img src="assets/connect-journal-v3.svg" width="50%" align="top" alt="Read Journal" /></a><a href="https://www.linkedin.com/in/elhamhasanialavy"><img src="assets/connect-linkedin-v3.svg" width="50%" align="top" alt="Connect on LinkedIn" /></a><br>
-<a href="https://elham-alavy.github.io/TodayILearned/"><img src="assets/connect-til-v3.svg" width="50%" align="top" alt="Visit Today I Learned" /></a><a href="mailto:elhamhasanialavy@arizona.edu"><img src="assets/connect-email-v3.svg" width="50%" align="top" alt="Email Elham Hasani Alavy" /></a><br>
-<img src="assets/profile-footer-v8.svg" width="100%" align="top" alt="Live your world of dreams. Adapted from Susan Polis Schutz’s book, To My Daughter with Love, page 35. A small image of the book cover appears below the quote." />
-</div>
+![Elham Hasani Alavy — University of Arizona. Building science, energy systems, and climate resilience. Think beyond buildings. Engineer better solutions.](assets/academic-header.svg)
 
-<details>
-<summary>Accessible text version</summary>
+<p align="center">
+  <a href="https://elham-alavy.github.io/portfolio/"><strong>Personal website ↗</strong></a> &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/elhamhasanialavy">LinkedIn</a> &nbsp; · &nbsp;
+  <a href="mailto:elhamhasanialavy@arizona.edu">Email</a> &nbsp; · &nbsp;
+  <a href="https://elham-alavy.github.io/elham-journal/">Journal</a>
+</p>
 
-## Current Contributions
+## About
 
-- **HeatTwin — Open Digital Twin Platform:** Building intelligence platform. Contribution: Platform Architecture · Research & Development. Repository @ GitHub: 🔒 Available to contributors.
-- **Course Development (CAPLA) — Reasoning-Based Learning Platform:** Reasoning-based educational design for undergraduate and graduate students. Contribution: Course Designer. Repository @ GitHub: 🔒 Available to contributors.
-- **Becoming Biomass — RVTR Research Collaboration:** Biomass and material futures. Contribution: Energy Simulator. Repository @ GitHub: 🔒 Available to contributors.
-- **Heat, Health & HRI using BHS — Building Heat Stress Analytics:** Heat, health, and environmental analytics. Contribution: Platform Architecture & Pipeline Designer. Repository @ GitHub: 🔒 Available to contributors.
-- **TUSD Solar Suitability Analysis (JWJ) — Rooftop PV Decision Support:** Solar suitability and financial analysis. Contribution: Energy Analyst. Repository @ GitHub: 🔒 Available to contributors.
-- **Electrification at Arizona (SRP):** Building electrification and energy-transition planning. Contribution: Energy Systems Analyst. Repository @ GitHub: 🔒 Available to contributors.
+I'm a data and research engineer at the **University of Arizona**, working across environmental science, building science, and data analysis. I explore how buildings and environmental systems shape climate resilience and human well-being, and develop analytical tools and research platforms to support that work.
 
-## Curiosity Domains · Infinite
+## Research interests
 
-### Current Research Domains
+**Buildings & energy** — Building science, energy systems, and whole-life carbon.<br>
+**Climate & health** — Heat science, climate resilience, and environmental health.<br>
+**Data & digital systems** — Digital twins, urban analytics, and artificial intelligence.
 
-Building Science · Energy Systems · Whole-Life Carbon · Digital Twins · Urban Analytics · Artificial Intelligence
+## Current contributions
 
-## Education Background
+| Project | Focus | My contribution |
+| :--- | :--- | :--- |
+| **HeatTwin** | Open digital twin platform for building intelligence | Platform Architecture · Research & Development |
+| **Heat, Health & HRI using BHS** | Building heat stress analytics | Platform Architecture & Pipeline Design |
+| **TUSD Solar Suitability Analysis (JWJ)** | Rooftop PV decision support | Energy Analysis |
+| **Electrification at Arizona (SRP)** | Building electrification and energy-transition planning | Energy Systems Analysis |
+| **Becoming Biomass · RVTR** | Biomass and material futures | Energy Simulation |
+| **Course Development · CAPLA** | Reasoning-based educational design | Course Design |
 
-- **Energy:** Focus · Photonics
-- **Engineering, Built Environment & Interdisciplinary Studies:** Focus · Data Science
-- **Civil Engineering & Engineering Mechanics:** Focus · Building Science
-- **Ongoing Education:** Focus · Arid Lands & Heat Science
+These project repositories are available to contributors. [Explore the project overview on my website →](https://elham-alavy.github.io/portfolio/#projects)
 
-> “Live your world of dreams.”
->
-> — Adapted from Susan Polis Schutz’s book, *To My Daughter with Love*, p. 35
+## Education & foundations
 
-</details>
+- **Energy** — Photonics
+- **Engineering, Built Environment & Interdisciplinary Studies** — Data Science
+- **Civil Engineering & Engineering Mechanics** — Building Science
+- **Ongoing education** — Arid Lands & Heat Science
+
+## Explore
+
+[**Geospatial portfolio ↗**](https://elham-alavy.github.io/) — Open-source GIS, spatial databases, Python workflows, and interactive maps.<br>
+[**Today I Learned ↗**](https://elham-alavy.github.io/TodayILearned/) — Learning notes and discoveries.<br>
+[**Journal ↗**](https://elham-alavy.github.io/elham-journal/) — Writing and reflections.
+
+---
+
+“Live your world of dreams.”<br>
+<sub>Adapted from Susan Polis Schutz’s *To My Daughter with Love*, p. 35.</sub>
