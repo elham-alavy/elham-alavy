@@ -13,7 +13,7 @@ I'm a data and research engineer at the **University of Arizona**, working acros
 
 ## Research interests
 
-**Buildings & energy** — Building science, energy systems, and whole-life carbon.<br>
+**Built Environment & energy** — Building science, energy systems, and whole-life carbon.<br>
 **Climate & health** — Heat science, climate resilience, and environmental health.<br>
 **Data & digital systems** — Digital twins, urban analytics, and artificial intelligence.
 
