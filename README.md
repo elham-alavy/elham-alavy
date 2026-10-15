@@ -1,7 +1,7 @@
 ![Elham Hasani Alavy — University of Arizona. Building science, energy systems, and climate resilience. Think beyond buildings. Engineer better solutions.](assets/academic-header.svg)
 
 <p align="center">
-  <a href="https://elham-alavy.github.io/portfolio/"><strong>Personal website ↗</strong></a> &nbsp; · &nbsp;
+  <a href="https://elham-alavy.github.io/portfolio/"><strong>website ↗</strong></a> &nbsp; · &nbsp;
   <a href="https://www.linkedin.com/in/elham-hasanialavy/">LinkedIn</a> &nbsp; · &nbsp;
   <a href="mailto:elhamhasanialavy@arizona.edu">Email</a> &nbsp; · &nbsp;
   <a href="https://elham-alavy.github.io/">Sample GIS</a>
@@ -21,7 +21,7 @@ Inspired by The Midnight Library by Matt Haig.
 
 ## Current contributions & Repo
 
-These project repositories are private and only visible to related contributors. [Explore the project overview on my website →](https://elham-alavy.github.io/portfolio/#projects)
+These project repositories are private and only visible to related contributors. [ the most recent contribution overview →](https://elham-alavy.github.io/portfolio/#projects)
 
 ## Education & foundations
 - **Ongoing education** — Digital Engineering
