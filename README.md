@@ -9,7 +9,8 @@
 
 ## About
 
-I'm a data and research engineer at the **University of Arizona**, working across environmental science, building science, and data analysis. I explore how buildings and environmental systems shape climate resilience and human well-being, and develop analytical tools and research platforms to support that work.
+Every space leaves something out. Sometimes, a whole possible life!
+Inspired by The Midnight Library by Matt Haig.
 
 ## Research interests
 
