@@ -9,12 +9,12 @@
 
 ## About
 
-Every space leaves something out. Sometimes, a whole possible life!
+Every space leaves something out. Sometimes, a whole possible life!<br>
 Inspired by The Midnight Library by Matt Haig.
 
 ## Research interests
 
-**Data & digital systems** — Digital twins, urban analytics, and artificial intelligence.
+**Data & digital systems** — Digital twins, urban analytics, and artificial intelligence.<br>
 **Built Environment & energy** — Building science, energy systems, and whole-life carbon.<br>
 **Climate & health** — Heat science, climate resilience, and environmental health.<br>
 
