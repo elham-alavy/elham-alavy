@@ -19,9 +19,9 @@ Inspired by The Midnight Library by Matt Haig.
 **Climate & health** — Heat science, climate resilience, and environmental health.<br>
 
 
-## Current contributions & Reposiitories
+## Current contributions & Repo
 
-These project repositories are private and only available to related contributors. [Explore the project overview on my website →](https://elham-alavy.github.io/portfolio/#projects)
+These project repositories are private and only visible to related contributors. [Explore the project overview on my website →](https://elham-alavy.github.io/portfolio/#projects)
 
 ## Education & foundations
 - **Ongoing education** — Digital Engineering
