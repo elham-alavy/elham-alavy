@@ -13,9 +13,10 @@ I'm a data and research engineer at the **University of Arizona**, working acros
 
 ## Research interests
 
+**Data & digital systems** — Digital twins, urban analytics, and artificial intelligence.
 **Built Environment & energy** — Building science, energy systems, and whole-life carbon.<br>
 **Climate & health** — Heat science, climate resilience, and environmental health.<br>
-**Data & digital systems** — Digital twins, urban analytics, and artificial intelligence.
+
 
 ## Current contributions
 
@@ -31,12 +32,12 @@ I'm a data and research engineer at the **University of Arizona**, working acros
 These project repositories are available to contributors. [Explore the project overview on my website →](https://elham-alavy.github.io/portfolio/#projects)
 
 ## Education & foundations
-- **Ongoing education** — Arid Lands & Heat Science
 - **Ongoing education** — Digital Engineering
-- **Civil Engineering & Engineering Mechanics** — Building Science
-- **Engineering, Built Environment & Interdisciplinary Studies** — Data Science
-- **Energy** — Photonics
 - **Ongoing education** — Arid Lands & Heat Science
+- **Civil Engineering & Engineering Mechanics** — Tarck: Building Science
+- **Engineering, Built Environment & Interdisciplinary Studies** — Course work: Data Science
+- **Energy** — Photonics
+  
 
 ## Explore
 
