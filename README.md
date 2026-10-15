@@ -33,11 +33,11 @@ These project repositories are available to contributors. [Explore the project o
 
 ## Education & foundations
 - **Ongoing education** — Digital Engineering
-- **Ongoing education** — Arid Lands & Heat Science
+- **Ongoing education** — Arid Lands & Heat Science, Focus: Urban Analytics and Environmental Studies
 - **Civil Engineering & Engineering Mechanics** — Tarck: Building Science
 - **Engineering, Built Environment & Interdisciplinary Studies** — Course work: Data Science
-- **Energy** — Joint master Theseis with the School of Electical Enginenring 
-- **Architectural Engineering** — Photonics
+- **Energy** — Joint Master's Thesis with the School of Electrical Engineering
+- **Architectural Engineering** — 
 
 ## Explore
 
