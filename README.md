@@ -36,7 +36,7 @@ These project repositories are available to contributors. [Explore the project o
 - **Ongoing education** — Arid Lands & Heat Science
 - **Civil Engineering & Engineering Mechanics** — Tarck: Building Science
 - **Engineering, Built Environment & Interdisciplinary Studies** — Course work: Data Science
-- **Energy** — Photonics
+- **Energy** — Joint master Theseis with the School of Electical Enginenring 
 - **Architectural Engineering** — Photonics
 
 ## Explore
