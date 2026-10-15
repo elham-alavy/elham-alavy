@@ -10,7 +10,7 @@
 ## About
 
 Every space leaves something out. Sometimes, a whole possible life!<br>
-Inspired by The Midnight Library by Matt Haig.
+<sub>Inspired by The Midnight Library by Matt Haig.
 
 ## Research interests
 
