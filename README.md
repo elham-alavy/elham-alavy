@@ -37,7 +37,7 @@ These project repositories are available to contributors. [Explore the project o
 - **Civil Engineering & Engineering Mechanics** — Tarck: Building Science
 - **Engineering, Built Environment & Interdisciplinary Studies** — Course work: Data Science
 - **Energy** — Photonics
-  
+- **Architectural Engineering** — Photonics
 
 ## Explore
 
