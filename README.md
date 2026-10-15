@@ -19,18 +19,9 @@ Inspired by The Midnight Library by Matt Haig.
 **Climate & health** — Heat science, climate resilience, and environmental health.<br>
 
 
-## Current contributions
+## Current contributions & Reposiitories
 
-| Project | Focus | My contribution |
-| :--- | :--- | :--- |
-| **HeatTwin** | Open digital twin platform for building intelligence | Platform Architecture · Research & Development |
-| **Heat, Health & HRI using BHS** | Building heat stress analytics | Platform Architecture & Pipeline Design |
-| **TUSD Solar Suitability Analysis (JWJ)** | Rooftop PV decision support | Energy Analysis |
-| **Electrification at Arizona (SRP)** | Building electrification and energy-transition planning | Energy Systems Analysis |
-| **Becoming Biomass · RVTR** | Biomass and material futures | Energy Simulation |
-| **Course Development · CAPLA** | Reasoning-based educational design | Course Design |
-
-These project repositories are available to contributors. [Explore the project overview on my website →](https://elham-alavy.github.io/portfolio/#projects)
+These project repositories are private and only available to related contributors. [Explore the project overview on my website →](https://elham-alavy.github.io/portfolio/#projects)
 
 ## Education & foundations
 - **Ongoing education** — Digital Engineering
