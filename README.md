@@ -4,7 +4,7 @@
   <a href="https://elham-alavy.github.io/portfolio/"><strong>Personal website ↗</strong></a> &nbsp; · &nbsp;
   <a href="https://www.linkedin.com/in/elham-hasanialavy/">LinkedIn</a> &nbsp; · &nbsp;
   <a href="mailto:elhamhasanialavy@arizona.edu">Email</a> &nbsp; · &nbsp;
-  <a href="[https://elham-alavy.github.io/elham-journal](https://elham-alavy.github.io/)/">Journal</a>
+  <a href="https://elham-alavy.github.io/">Sample GIS</a>
 </p>
 
 ## About
