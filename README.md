@@ -23,7 +23,7 @@ Every space leaves something out. Sometimes, a whole possible life!<br>
 
 These project repositories are private and only visible to related contributors. [ the most recent contribution overview →](https://elham-alavy.github.io/portfolio/#projects)
 
-## Education & foundations
+## Education
 - **Ongoing education** — Arid Lands & Heat Science, Focus: Urban Analytics and Environmental Studies
 - **Ongoing education** — Digital Engineering
 - **Civil Engineering & Engineering Mechanics** — Tarck: Building Science
