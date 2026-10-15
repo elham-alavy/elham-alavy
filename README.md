@@ -1,4 +1,4 @@
-![Elham Hasani Alavy — University of Arizona. Building science, energy systems, and climate resilience. Think beyond buildings. Engineer better solutions.](assets/academic-header.svg)
+![Elham Hasani Alavy — University of Arizona. Data, energy systems, and climate resilience. Think beyond buildings. Engineer better solutions.](assets/academic-header.svg)
 
 <p align="center">
   <a href="https://elham-alavy.github.io/portfolio/"><strong>website ↗</strong></a> &nbsp; · &nbsp;
